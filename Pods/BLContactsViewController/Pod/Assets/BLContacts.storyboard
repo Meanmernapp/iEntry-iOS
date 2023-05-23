@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="20037" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" colorMatched="YES" initialViewController="gXc-kW-eQc">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="20020"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Contacts-->
+        <scene sceneID="dTt-Ns-E5g">
+            <objects>
+                <tableViewController storyboardIdentifier="BLContactsViewController" useStoryboardIdentifierAsRestorationIdentifier="YES" id="dwf-zE-NEX" userLabel="Contacts" customClass="BLContactsViewController" sceneMemberID="viewController">
+                    <tableView key="view" opaque="NO" clipsSubviews="YES" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" restorationIdentifier="TableView" alwaysBounceVertical="YES" keyboardDismissMode="interactive" dataMode="prototypes" style="plain" separatorStyle="default" rowHeight="44" sectionHeaderHeight="22" sectionFooterHeight="22" id="bUn-Oh-YIe">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <searchBar key="tableHeaderView" contentMode="redraw" restorationIdentifier="SearchBar" id="oG1-xt-R2b">
+                            <rect key="frame" x="0.0" y="0.0" width="414" height="44"/>
+                            <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMaxY="YES"/>
+                            <textInputTraits key="textInputTraits"/>
+                            <connections>
+                                <outlet property="delegate" destination="dwf-zE-NEX" id="xPQ-WJ-jm7"/>
+                            </connections>
+                        </searchBar>
+                    </tableView>
+                    <navigationItem key="navigationItem" id="hED-VJ-XNV"/>
+                    <connections>
+                        <outlet property="searchDisplayController" destination="bJt-dK-cVW" id="egQ-R4-LRX"/>
+                    </connections>
+                </tableViewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="4Ak-OW-r6a" userLabel="First Responder" sceneMemberID="firstResponder"/>
+                <searchDisplayController id="bJt-dK-cVW">
+                    <connections>
+                        <outlet property="delegate" destination="dwf-zE-NEX" id="hzM-77-5tl"/>
+                        <outlet property="searchBar" destination="oG1-xt-R2b" id="QEd-9s-V6Q"/>
+                        <outlet property="searchContentsController" destination="dwf-zE-NEX" id="FGw-J7-K2X"/>
+                        <outlet property="searchResultsDataSource" destination="dwf-zE-NEX" id="Cnp-09-L5u"/>
+                        <outlet property="searchResultsDelegate" destination="dwf-zE-NEX" id="3Dl-JY-6CF"/>
+                    </connections>
+                </searchDisplayController>
+            </objects>
+            <point key="canvasLocation" x="279.71014492753625" y="163.39285714285714"/>
+        </scene>
+        <!--Navigation Controller-->
+        <scene sceneID="PPA-IN-OxV">
+            <objects>
+                <navigationController definesPresentationContext="YES" useStoryboardIdentifierAsRestorationIdentifier="YES" id="gXc-kW-eQc" sceneMemberID="viewController">
+                    <navigationBar key="navigationBar" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" id="B0E-Gz-2UC">
+                        <rect key="frame" x="0.0" y="44" width="414" height="44"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </navigationBar>
+                    <connections>
+                        <segue destination="dwf-zE-NEX" kind="relationship" relationship="rootViewController" id="cKp-eU-bJ0"/>
+                    </connections>
+                </navigationController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="bd6-Ps-7uI" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-494.20289855072468" y="163.39285714285714"/>
+        </scene>
+    </scenes>
+</document>

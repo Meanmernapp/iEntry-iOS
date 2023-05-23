@@ -1,0 +1,558 @@
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "09F-Qh-3Fc"; */
+"09F-Qh-3Fc.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "0Ya-J8-SvY"; */
+"0Ya-J8-SvY.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "Información personal"; ObjectID = "2hm-VK-MAz"; */
+"2hm-VK-MAz.text" = "Datos";
+
+/* Class = "UILabel"; text = "Nombre"; ObjectID = "2oc-f0-uwZ"; */
+"2oc-f0-uwZ.text" = "Nombre";
+
+/* Class = "UILabel"; text = "NOMBRE"; ObjectID = "3IJ-3b-rrA"; */
+"3IJ-3b-rrA.text" = "NOMBRE";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "3N4-G2-ded"; */
+"3N4-G2-ded.text" = "----";
+
+/* Class = "UILabel"; text = "CERRAR SESIÓN"; ObjectID = "3NV-7N-uPT"; */
+"3NV-7N-uPT.text" = "CERRAR SESIÓN";
+
+/* Class = "UIButton"; normalTitle = "ACEPTAR"; ObjectID = "3iD-OV-YBw"; */
+"3iD-OV-YBw.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "RESERVACIONES"; ObjectID = "42i-NH-XCV"; */
+"42i-NH-XCV.text" = "RESERVACIONES";
+
+/* Class = "UILabel"; text = "Frances"; ObjectID = "4Di-iE-Lwh"; */
+"4Di-iE-Lwh.text" = "Frances";
+
+/* Class = "UILabel"; text = "HOME NUMBER"; ObjectID = "4Un-uK-oMw"; */
+"4Un-uK-oMw.text" = "HOME NUMBER";
+
+/* Class = "UILabel"; text = "24/06/2021"; ObjectID = "4rv-XZ-wdL"; */
+"4rv-XZ-wdL.text" = "24/06/2021";
+
+/* Class = "UILabel"; text = "DESVINCULAR DISPOSITIVO"; ObjectID = "4uZ-Xj-9Qz"; */
+"4uZ-Xj-9Qz.text" = "DESVINCULAR DISPOSITIVO";
+
+/* Class = "UILabel"; text = "O P C I O N E S"; ObjectID = "5yr-RW-NSC"; */
+"5yr-RW-NSC.text" = "O P C I O N E S";
+
+/* Class = "UILabel"; text = "12:00 P.M."; ObjectID = "63o-zW-wAm"; */
+"63o-zW-wAm.text" = "12:00 P.M.";
+
+/* Class = "UILabel"; text = "01:22 P.M."; ObjectID = "6R1-C1-ucB"; */
+"6R1-C1-ucB.text" = "01:22 P.M.";
+
+/* Class = "UILabel"; text = "GUARDAR CAMBIOS"; ObjectID = "6S6-0z-Dn5"; */
+"6S6-0z-Dn5.text" = "GUARDAR CAMBIOS";
+
+/* Class = "UILabel"; text = "INVITAR"; ObjectID = "6Wd-CD-JGB"; */
+"6Wd-CD-JGB.text" = "INVITAR";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola Empleado"; ObjectID = "6rp-IE-plk"; */
+"6rp-IE-plk.text" = "Luis Enrique Cornejo Arreola Empleado";
+
+/* Class = "UITextField"; placeholder = "Escribe para buscar ..."; ObjectID = "7VF-JM-AN7"; */
+"7VF-JM-AN7.placeholder" = "Escribe para buscar ...";
+
+/* Class = "UILabel"; text = "ACTUALIZAR DATOS"; ObjectID = "8OH-Iz-mSh"; */
+"8OH-Iz-mSh.text" = "ACTUALIZAR DATOS";
+
+/* Class = "UITextField"; placeholder = "Escribe para buscar ..."; ObjectID = "9EJ-Tw-a2p"; */
+"9EJ-Tw-a2p.placeholder" = "Escribe para buscar ...";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "9Z3-9z-EvJ"; */
+"9Z3-9z-EvJ.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "Estás seguro de querer eliminar este evento?"; ObjectID = "9lj-f9-VVF"; */
+"9lj-f9-VVF.text" = "Estás seguro de querer eliminar este evento?";
+
+/* Class = "UILabel"; text = "A LAS"; ObjectID = "9uy-3G-2QZ"; */
+"9uy-3G-2QZ.text" = "A LAS";
+
+/* Class = "UILabel"; text = "A"; ObjectID = "A1W-pu-DEI"; */
+"A1W-pu-DEI.text" = "A";
+
+/* Class = "UILabel"; text = "C A M B I A R I M A G E"; ObjectID = "A51-lS-vuI"; */
+"A51-lS-vuI.text" = "C A M B I A R I M A G E";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "AMW-HJ-aC2"; */
+"AMW-HJ-aC2.text" = "---";
+
+/* Class = "UILabel"; text = "EL"; ObjectID = "AgF-EQ-eqL"; */
+"AgF-EQ-eqL.text" = "EL";
+
+/* Class = "UILabel"; text = "FECHA"; ObjectID = "AkJ-E8-p9H"; */
+"AkJ-E8-p9H.text" = "FECHA";
+
+/* Class = "UILabel"; text = "Querétaro"; ObjectID = "B7H-Nf-gHR"; */
+"B7H-Nf-gHR.text" = "Querétaro";
+
+/* Class = "UILabel"; text = "icon@complex.com"; ObjectID = "BfQ-7Z-8al"; */
+"BfQ-7Z-8al.text" = "icon@complex.com";
+
+/* Class = "UILabel"; text = "ELIGE LAS FECHAS"; ObjectID = "BuW-1m-d1o"; */
+"BuW-1m-d1o.text" = "ELIGE LAS FECHAS";
+
+/* Class = "UILabel"; text = "A C T U A L I Z A R"; ObjectID = "Cf8-xj-fgZ"; */
+"Cf8-xj-fgZ.text" = "A C T U A L I Z A R";
+
+/* Class = "UILabel"; text = "Contraseña"; ObjectID = "DCa-sU-yoF"; */
+"DCa-sU-yoF.text" = "Contraseña";
+
+/* Class = "UILabel"; text = "SELECCIONAR EMPLEADOS"; ObjectID = "E80-Dg-ixJ"; */
+"E80-Dg-ixJ.text" = "SELECCIONAR EMPLEADOS";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "EuE-PE-bGV"; */
+"EuE-PE-bGV.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "EL"; ObjectID = "F9v-ua-TSE"; */
+"F9v-ua-TSE.text" = "EL";
+
+/* Class = "UILabel"; text = "01:22 P.M."; ObjectID = "FG8-CB-f7v"; */
+"FG8-CB-f7v.text" = "01:22 P.M.";
+
+/* Class = "UILabel"; text = "Av de los industriales número 48. Col Jurica."; ObjectID = "FXC-a5-T1D"; */
+"FXC-a5-T1D.text" = "Av de los industriales número 48. Col Jurica.";
+
+/* Class = "UILabel"; text = "Género"; ObjectID = "Gbi-k4-OOM"; */
+"Gbi-k4-OOM.text" = "Género";
+
+/* Class = "UIButton"; normalTitle = "VOLVER A GENERAR"; ObjectID = "Gcs-xZ-Qe9"; */
+"Gcs-xZ-Qe9.normalTitle" = "VOLVER A GENERAR";
+
+/* Class = "UILabel"; text = "Masculino"; ObjectID = "HdQ-kd-vvU"; */
+"HdQ-kd-vvU.text" = "Masculino";
+
+/* Class = "UIButton"; normalTitle = "CONFIMRMAR"; ObjectID = "Hhb-TO-daa"; */
+"Hhb-TO-daa.normalTitle" = "CONFIMRMAR";
+
+/* Class = "UILabel"; text = "AGREGAR EVENTO"; ObjectID = "IIv-TJ-Lh1"; */
+"IIv-TJ-Lh1.text" = "AGREGAR EVENTO";
+
+/* Class = "UILabel"; text = "Aditional information employee"; ObjectID = "IRW-DM-RaQ"; */
+"IRW-DM-RaQ.text" = "Aditional information employee";
+
+/* Class = "UILabel"; text = "IBL | Inteligence Bereau Laboratory"; ObjectID = "Idb-VR-vY8"; */
+"Idb-VR-vY8.text" = "IBL | Inteligence Bereau Laboratory";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "JKO-iK-coB"; */
+"JKO-iK-coB.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "MAPA A LA COMPAÑIA"; ObjectID = "JXq-Hm-KbL"; */
+"JXq-Hm-KbL.text" = "MAPA A LA COMPAÑIA";
+
+/* Class = "UILabel"; text = "Use biometrics storate in the phone"; ObjectID = "KAJ-U3-HFG"; */
+"KAJ-U3-HFG.text" = "Use biometrics storate in the phone";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "KIE-U7-IBX"; */
+"KIE-U7-IBX.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "KPX-Ne-k8f"; */
+"KPX-Ne-k8f.text" = "---";
+
+/* Class = "UILabel"; text = "R E S T R I C C I O N E S"; ObjectID = "Kmg-68-t90"; */
+"Kmg-68-t90.text" = "R E S T R I C C I O N E S";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "LUd-7y-pc3"; */
+"LUd-7y-pc3.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "LZG-xE-UwI"; */
+"LZG-xE-UwI.text" = "1";
+
+/* Class = "UIButton"; normalTitle = "VOLVER A GENERAR"; ObjectID = "MXe-52-TNH"; */
+"MXe-52-TNH.normalTitle" = "VOLVER A GENERAR";
+
+/* Class = "UILabel"; text = "Av de los industriales número 48. Col Jurica."; ObjectID = "N55-7I-tCn"; */
+"N55-7I-tCn.text" = "Av de los industriales número 48. Col Jurica.";
+
+/* Class = "UILabel"; text = "Información"; ObjectID = "Ngf-m6-nhD"; */
+"Ngf-m6-nhD.text" = "Información";
+
+/* Class = "UILabel"; text = "01:22 P.M."; ObjectID = "O4u-Dl-zFt"; */
+"O4u-Dl-zFt.text" = "01:22 P.M.";
+
+/* Class = "UILabel"; text = "No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros."; ObjectID = "O5a-Gt-G6U"; */
+"O5a-Gt-G6U.text" = "No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros.";
+
+/* Class = "UIButton"; normalTitle = "ACEPTAR"; ObjectID = "OGG-1h-hW8"; */
+"OGG-1h-hW8.normalTitle" = "ACEPTAR";
+
+/* Class = "UIButton"; normalTitle = "05/05/2021"; ObjectID = "OJi-w6-2Dc"; */
+"OJi-w6-2Dc.normalTitle" = "05/05/2021";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "P97-We-OBo"; */
+"P97-We-OBo.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "A Luis Enrique Cornejo Arreola"; ObjectID = "PL2-tS-0v6"; */
+"PL2-tS-0v6.text" = "A Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "TOKEN DE ACCESO"; ObjectID = "Pip-F7-5V2"; */
+"Pip-F7-5V2.text" = "TOKEN DE ACCESO";
+
+/* Class = "UIButton"; normalTitle = "VOLVER A GENERAR"; ObjectID = "PjY-sI-9Ix"; */
+"PjY-sI-9Ix.normalTitle" = "VOLVER A GENERAR";
+
+/* Class = "UILabel"; text = "Tipo de Acceso"; ObjectID = "Prc-Mg-dGg"; */
+"Prc-Mg-dGg.text" = "Tipo de Acceso";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "Qh6-Qn-jee"; */
+"Qh6-Qn-jee.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "ACEPTAR"; ObjectID = "Qx0-rd-l36"; */
+"Qx0-rd-l36.text" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "FILTROS"; ObjectID = "Qxi-qf-dvw"; */
+"Qxi-qf-dvw.text" = "FILTROS";
+
+/* Class = "UILabel"; text = "Fecha de cumpleaños"; ObjectID = "Rty-mv-7XT"; */
+"Rty-mv-7XT.text" = "Fecha de cumpleaños";
+
+/* Class = "UILabel"; text = "20:00 P.M."; ObjectID = "S3c-Uh-Ilr"; */
+"S3c-Uh-Ilr.text" = "20:00 P.M.";
+
+/* Class = "UILabel"; text = "C R E A R E V E N T O"; ObjectID = "ShX-j1-Owr"; */
+"ShX-j1-Owr.text" = "C R E A R E V E N T O";
+
+/* Class = "UILabel"; text = "COUNTRY"; ObjectID = "SsL-wn-XZM"; */
+"SsL-wn-XZM.text" = "COUNTRY";
+
+/* Class = "UILabel"; text = "D A T O S E X T R A"; ObjectID = "Sz1-Jl-XuC"; */
+"Sz1-Jl-XuC.text" = "D A T O S E X T R A";
+
+/* Class = "UILabel"; text = "Total 0"; ObjectID = "T4l-to-Nns"; */
+"T4l-to-Nns.text" = "Total 0";
+
+/* Class = "UILabel"; text = "Ingrese el número de invitados permitidos por invitación"; ObjectID = "TKn-ae-luU"; */
+"TKn-ae-luU.text" = "Ingrese el número de invitados permitidos por invitación";
+
+/* Class = "UILabel"; text = "Estás apunto de cerrar sesión, se desvinculará el dispositivo en el que esta la sesión activa. ¿Deseas continuar?"; ObjectID = "TLr-6E-fzB"; */
+"TLr-6E-fzB.text" = "Estás apunto de cerrar sesión, se desvinculará el dispositivo en el que esta la sesión activa. ¿Deseas continuar?";
+
+/* Class = "UILabel"; text = "C O N T R A C T"; ObjectID = "TgG-Um-prI"; */
+"TgG-Um-prI.text" = "C O N T R A C T";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Tja-Mf-U4q"; */
+"Tja-Mf-U4q.text" = "---";
+
+/* Class = "UILabel"; text = "Idiomas"; ObjectID = "TkY-Ti-dcs"; */
+"TkY-Ti-dcs.text" = "Idiomas";
+
+/* Class = "UILabel"; text = "N O T I F I C A C I O N E S"; ObjectID = "Tpb-vh-Lfu"; */
+"Tpb-vh-Lfu.text" = "N O T I F I C A C I O N E S";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "U2G-1f-ybT"; */
+"U2G-1f-ybT.text" = "---";
+
+/* Class = "UILabel"; text = "Ingles"; ObjectID = "ULi-J9-7eY"; */
+"ULi-J9-7eY.text" = "Ingles";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola Empleado Contador General"; ObjectID = "UYF-zR-GRg"; */
+"UYF-zR-GRg.text" = "Luis Enrique Cornejo Arreola Empleado Contador General";
+
+/* Class = "UILabel"; text = "USUARIO NO ENCONTRADO"; ObjectID = "UZs-KS-ZbW"; */
+"UZs-KS-ZbW.text" = "USUARIO NO\n ENCONTRADO";
+
+/* Class = "UILabel"; text = "Fecha: 04-08-2021 08:30"; ObjectID = "UkZ-yh-onV"; */
+"UkZ-yh-onV.text" = "Fecha: 04-08-2021 08:30";
+
+/* Class = "UILabel"; text = "I N V I T A C I Ó N"; ObjectID = "V41-Tj-Z0M"; */
+"V41-Tj-Z0M.text" = "I N V I T A C I Ó N";
+
+/* Class = "UILabel"; text = "76118"; ObjectID = "VSu-J4-g6k"; */
+"VSu-J4-g6k.text" = "76118";
+
+/* Class = "UILabel"; text = "D A T O S DE U S U A R I O"; ObjectID = "WUs-kT-lj3"; */
+"WUs-kT-lj3.text" = "D A T O S DE U S U A R I O";
+
+/* Class = "UIButton"; normalTitle = "ENVIAR"; ObjectID = "X6B-WI-U30"; */
+"X6B-WI-U30.normalTitle" = "ENVIAR";
+
+/* Class = "UILabel"; text = "CANCELAR EVENTO"; ObjectID = "X8k-YJ-ln9"; */
+"X8k-YJ-ln9.text" = "CANCELAR EVENTO";
+
+/* Class = "UILabel"; text = "D E T A L L E S"; ObjectID = "XI5-Ag-eTd"; */
+"XI5-Ag-eTd.text" = "D E T A L L E S";
+
+/* Class = "UILabel"; text = "Colinas del Cimatario 101"; ObjectID = "XU3-5e-s0F"; */
+"XU3-5e-s0F.text" = "Colinas del Cimatario 101";
+
+/* Class = "UILabel"; text = "TERMINAR"; ObjectID = "XXX-xe-iH8"; */
+"XXX-xe-iH8.text" = "TERMINAR";
+
+/* Class = "UILabel"; text = "COMPAÑIA"; ObjectID = "Xnw-Ze-D3x"; */
+"Xnw-Ze-D3x.text" = "COMPAÑIA";
+
+/* Class = "UILabel"; text = "2 Invitaciones"; ObjectID = "Y6k-9u-06w"; */
+"Y6k-9u-06w.text" = "2 Invitaciones";
+
+/* Class = "UILabel"; text = "ELÍGE LA AREA COMÚN A RESERVAR:"; ObjectID = "Y8g-Cf-azT"; */
+"Y8g-Cf-azT.text" = "ELÍGE LA AREA COMÚN A RESERVAR:";
+
+/* Class = "UILabel"; text = "RESERVACIONES"; ObjectID = "YBe-gL-yNR"; */
+"YBe-gL-yNR.text" = "RESERVACIONES";
+
+/* Class = "UILabel"; text = "Ingrese el número de invitados que llegarán"; ObjectID = "YIL-Zm-Cit"; */
+"YIL-Zm-Cit.text" = "Ingrese el número de invitados que llegarán";
+
+/* Class = "UILabel"; text = "*********"; ObjectID = "Yha-qS-h3h"; */
+"Yha-qS-h3h.text" = "*********";
+
+/* Class = "UILabel"; text = "ACTUALIZAR EVENTO"; ObjectID = "a9U-qw-DE2"; */
+"a9U-qw-DE2.text" = "ACTUALIZAR EVENTO";
+
+/* Class = "UILabel"; text = "ENVIAR"; ObjectID = "aIT-Bh-1aa"; */
+"aIT-Bh-1aa.text" = "ENVIAR";
+
+/* Class = "UILabel"; text = "ADDESS 1"; ObjectID = "aKe-jk-5fR"; */
+"aKe-jk-5fR.text" = "ADDESS 1";
+
+/* Class = "UILabel"; text = "O P C I O N E S"; ObjectID = "aMv-4K-Eab"; */
+"aMv-4K-Eab.text" = "O P C I O N E S";
+
+/* Class = "UITextField"; placeholder = "Escribe no celular / email para invitar"; ObjectID = "aNz-yL-RsT"; */
+"aNz-yL-RsT.placeholder" = "Escribe no celular / email para invitar";
+
+/* Class = "UILabel"; text = "SELECCIONAR DE IMAGENES"; ObjectID = "ac6-G1-S7F"; */
+"ac6-G1-S7F.text" = "SELECCIONAR DE IMAGENES";
+
+/* Class = "UILabel"; text = "E M P L E A D O S"; ObjectID = "bCX-sA-EUN"; */
+"bCX-sA-EUN.text" = "E M P L E A D O S";
+
+/* Class = "UILabel"; text = "BIOCR Validation"; ObjectID = "bCr-Tn-vCf"; */
+"bCr-Tn-vCf.text" = "BIOCR Validation";
+
+/* Class = "UILabel"; text = "Junta con inversionistas"; ObjectID = "bHG-Tn-pK9"; */
+"bHG-Tn-pK9.text" = "Junta con inversionistas";
+
+/* Class = "UIButton"; normalTitle = "ENVIAR"; ObjectID = "bRC-lp-g9C"; */
+"bRC-lp-g9C.normalTitle" = "ENVIAR";
+
+/* Class = "UILabel"; text = "Event Approval"; ObjectID = "c2o-03-fs9"; */
+"c2o-03-fs9.text" = "Event Approval";
+
+/* Class = "UILabel"; text = "RESERVACIÓN"; ObjectID = "cDu-eY-5Ic"; */
+"cDu-eY-5Ic.text" = "RESERVACIÓN";
+
+/* Class = "UILabel"; text = "ARABIC NAME"; ObjectID = "cMB-7z-BY1"; */
+"cMB-7z-BY1.text" = "ARABIC NAME";
+
+/* Class = "UIButton"; normalTitle = "05/05/2021"; ObjectID = "ck9-2g-ykN"; */
+"ck9-2g-ykN.normalTitle" = "05/05/2021";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "dHY-61-j99"; */
+"dHY-61-j99.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "ENVIAR"; ObjectID = "dqR-N1-ppt"; */
+"dqR-N1-ppt.normalTitle" = "ENVIAR";
+
+/* Class = "UIButton"; normalTitle = "ACEPTAR"; ObjectID = "duj-4w-NAu"; */
+"duj-4w-NAu.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "I N V I T A C I O N E S  D E L E V E N T O"; ObjectID = "dyU-OD-9za"; */
+"dyU-OD-9za.text" = "I N V I T A C I O N E S  D E L E V E N T O";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "eUP-Dh-G3U"; */
+"eUP-Dh-G3U.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "eif-9v-eMF"; */
+"eif-9v-eMF.text" = "---";
+
+/* Class = "UILabel"; text = "NOMBRE"; ObjectID = "exl-xY-Wzu"; */
+"exl-xY-Wzu.text" = "NOMBRE";
+
+/* Class = "UILabel"; text = "Colinas del Cimatario 101"; ObjectID = "fXl-c9-goE"; */
+"fXl-c9-goE.text" = "Colinas del Cimatario 101";
+
+/* Class = "UILabel"; text = "Valido por los siguientes 30 segundos."; ObjectID = "fcc-Q5-yNa"; */
+"fcc-Q5-yNa.text" = "Valido por los siguientes 30 segundos.";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "fwW-3x-WrD"; */
+"fwW-3x-WrD.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "Español"; ObjectID = "gJk-Gr-y4i"; */
+"gJk-Gr-y4i.text" = "Español";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "hDf-LY-Om5"; */
+"hDf-LY-Om5.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "0 Invitaciones"; ObjectID = "hED-4r-KF4"; */
+"hED-4r-KF4.text" = "0 Invitaciones";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "hN9-1O-Iqg"; */
+"hN9-1O-Iqg.text" = "---";
+
+/* Class = "UILabel"; text = "C O N F I R M A R E V E N T O"; ObjectID = "hpd-in-Qon"; */
+"hpd-in-Qon.text" = "C O N F I R M A R E V E N T O";
+
+/* Class = "UILabel"; text = "TOMAR FOTO"; ObjectID = "i2A-7s-UAh"; */
+"i2A-7s-UAh.text" = "TOMAR FOTO";
+
+/* Class = "UIButton"; normalTitle = "CONFIMRMAR"; ObjectID = "iTg-TD-6he"; */
+"iTg-TD-6he.normalTitle" = "CONFIMRMAR";
+
+/* Class = "UILabel"; text = "CANCELAR INVITACIÓN"; ObjectID = "iZB-0r-zvu"; */
+"iZB-0r-zvu.text" = "CANCELAR INVITACIÓN";
+
+/* Class = "UILabel"; text = "0 Invitaciones"; ObjectID = "id1-7D-g5X"; */
+"id1-7D-g5X.text" = "0 Invitaciones";
+
+/* Class = "UILabel"; text = "ELÍGE UNA FECHA"; ObjectID = "ipJ-cP-BJt"; */
+"ipJ-cP-BJt.text" = "ELÍGE UNA FECHA";
+
+/* Class = "UILabel"; text = "24/06/2021"; ObjectID = "iqB-jD-AKO"; */
+"iqB-jD-AKO.text" = "24/06/2021";
+
+/* Class = "UILabel"; text = "ADDESS 2"; ObjectID = "iwV-lg-hA9"; */
+"iwV-lg-hA9.text" = "ADDESS 2";
+
+/* Class = "UILabel"; text = "BLOOD TYPE"; ObjectID = "jWS-eC-FUT"; */
+"jWS-eC-FUT.text" = "BLOOD TYPE";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola Empleado Contador General"; ObjectID = "kCL-HZ-hme"; */
+"kCL-HZ-hme.text" = "Luis Enrique Cornejo Arreola Empleado Contador General";
+
+/* Class = "UILabel"; text = "CANCELAR EVENTO"; ObjectID = "kHe-pw-H0m"; */
+"kHe-pw-H0m.text" = "CANCELAR EVENTO";
+
+/* Class = "UILabel"; text = "RESERVACIONES"; ObjectID = "kZd-cG-wV9"; */
+"kZd-cG-wV9.text" = "RESERVACIONES";
+
+/* Class = "UILabel"; text = "11:00 P.M."; ObjectID = "l1d-NL-iUj"; */
+"l1d-NL-iUj.text" = "11:00 P.M.";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "lmA-4Z-FZ6"; */
+"lmA-4Z-FZ6.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "México"; ObjectID = "m3O-dF-3KF"; */
+"m3O-dF-3KF.text" = "México";
+
+/* Class = "UILabel"; text = "ACTUALIZAR DATOS"; ObjectID = "mTk-Ci-N8H"; */
+"mTk-Ci-N8H.text" = "ACTUALIZAR DATOS";
+
+/* Class = "UILabel"; text = "DE"; ObjectID = "msv-kh-Azr"; */
+"msv-kh-Azr.text" = "DE";
+
+/* Class = "UILabel"; text = "NOMBRE"; ObjectID = "nDC-Iz-XbG"; */
+"nDC-Iz-XbG.text" = "NOMBRE";
+
+/* Class = "UILabel"; text = "ELÍGE UN HORARIO"; ObjectID = "nFs-eA-vdn"; */
+"nFs-eA-vdn.text" = "ELÍGE UN HORARIO";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "neK-AX-l66"; */
+"neK-AX-l66.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "DIRECCIÓN"; ObjectID = "nuK-Aw-cVA"; */
+"nuK-Aw-cVA.text" = "DIRECCIÓN";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "o8V-4L-3lD"; */
+"o8V-4L-3lD.text" = "---";
+
+/* Class = "UILabel"; text = "A LAS"; ObjectID = "oCE-S7-cwF"; */
+"oCE-S7-cwF.text" = "A LAS";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "oFd-ey-sTj"; */
+"oFd-ey-sTj.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "oYf-E4-bFj"; */
+"oYf-E4-bFj.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "Información"; ObjectID = "qCc-rw-ygc"; */
+"qCc-rw-ygc.text" = "Información";
+
+/* Class = "UILabel"; text = "4427065909"; ObjectID = "qDe-fs-KcK"; */
+"qDe-fs-KcK.text" = "4427065909";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "qZ5-O2-eRt"; */
+"qZ5-O2-eRt.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UITextField"; placeholder = "Escribe un nomber a buscar"; ObjectID = "qwp-I5-AJW"; */
+"qwp-I5-AJW.placeholder" = "Escribe un nomber a buscar";
+
+/* Class = "UILabel"; text = "0 Invitaciones"; ObjectID = "rKc-Xe-2He"; */
+"rKc-Xe-2He.text" = "0 Invitaciones";
+
+/* Class = "UILabel"; text = "Celular"; ObjectID = "rOb-yE-ASf"; */
+"rOb-yE-ASf.text" = "Celular";
+
+/* Class = "UILabel"; text = "I N F O R M A C I Ó N"; ObjectID = "sBB-CE-vih"; */
+"sBB-CE-vih.text" = "I N F O R M A C I Ó N";
+
+/* Class = "UILabel"; text = "08-04-2021"; ObjectID = "sTr-bX-vOg"; */
+"sTr-bX-vOg.text" = "08-04-2021";
+
+/* Class = "UILabel"; text = "ACTUALIZAR DATOS"; ObjectID = "sUu-Vr-mou"; */
+"sUu-Vr-mou.text" = "ACTUALIZAR DATOS";
+
+/* Class = "UILabel"; text = "24/06/2021"; ObjectID = "sdJ-xV-8pq"; */
+"sdJ-xV-8pq.text" = "24/06/2021";
+
+/* Class = "UILabel"; text = "Av de los industriales número 48. Col Jurica."; ObjectID = "tr4-bJ-rSV"; */
+"tr4-bJ-rSV.text" = "Av de los industriales número 48. Col Jurica.";
+
+/* Class = "UILabel"; text = "Cumpleaños de Luis"; ObjectID = "txv-uE-iRi"; */
+"txv-uE-iRi.text" = "Cumpleaños de Luis";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "u7t-Ma-x9P"; */
+"u7t-Ma-x9P.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "FILTRAR"; ObjectID = "uDG-pr-hTr"; */
+"uDG-pr-hTr.normalTitle" = "FILTRAR";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "uqp-uA-TqQ"; */
+"uqp-uA-TqQ.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "vIU-he-Cca"; */
+"vIU-he-Cca.text" = "---";
+
+/* Class = "UILabel"; text = "POST CODE"; ObjectID = "vTC-xa-zFl"; */
+"vTC-xa-zFl.text" = "POST CODE";
+
+/* Class = "UILabel"; text = "Correo"; ObjectID = "vcj-na-sMN"; */
+"vcj-na-sMN.text" = "Correo";
+
+/* Class = "UILabel"; text = "ESCOGE TUS INVITADOS:"; ObjectID = "vgw-EV-8iP"; */
+"vgw-EV-8iP.text" = "ESCOGE TUS INVITADOS:";
+
+/* Class = "UILabel"; text = "Información extra"; ObjectID = "wIX-0M-wlr"; */
+"wIX-0M-wlr.text" = "Información extra";
+
+/* Class = "UILabel"; text = "Colinas del Cimatario 101"; ObjectID = "wce-0H-5Ui"; */
+"wce-0H-5Ui.text" = "Colinas del Cimatario 101";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "x8a-v7-sVu"; */
+"x8a-v7-sVu.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "FECHAS"; ObjectID = "xBR-go-F2C"; */
+"xBR-go-F2C.text" = "FECHAS";
+
+/* Class = "UILabel"; text = "STATE"; ObjectID = "xD7-dJ-Q4z"; */
+"xD7-dJ-Q4z.text" = "STATE";
+
+/* Class = "UIButton"; normalTitle = "ACEPTAR"; ObjectID = "xES-gc-Fen"; */
+"xES-gc-Fen.normalTitle" = "ACEPTAR";
+
+/* Class = "UILabel"; text = "Luis Enrique "; ObjectID = "xQw-Ed-AFt"; */
+"xQw-Ed-AFt.text" = "Luis Enrique ";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac México"; ObjectID = "xaY-wL-Yzt"; */
+"xaY-wL-Yzt.text" = "Grupo Tepeyac México";
+
+/* Class = "UILabel"; text = "N U E V A  N O T I F I C A CI O N"; ObjectID = "xti-kR-kSi"; */
+"xti-kR-kSi.text" = "N U E V A  N O T I F I C A CI O N";
+
+/* Class = "UILabel"; text = "Información personal"; ObjectID = "y52-hx-Ydz"; */
+"y52-hx-Ydz.text" = "Data";
+
+/* Class = "UILabel"; text = "M A P A  "; ObjectID = "y5h-xt-5KI"; */
+"y5h-xt-5KI.text" = "M A P A  ";
+
+/* Class = "UILabel"; text = "Deseas cancelar la invitación para Luis Enrique Cornejo Arreola?"; ObjectID = "zLg-4y-hUU"; */
+"zLg-4y-hUU.text" = "Deseas cancelar la invitación para Luis Enrique Cornejo Arreola?";
+
+/* Class = "UITextField"; placeholder = "Escribe para buscar ..."; ObjectID = "zRa-Lt-aCp"; */
+"zRa-Lt-aCp.placeholder" = "Escribe para buscar ...";

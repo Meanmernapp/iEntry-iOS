@@ -1,0 +1,1090 @@
+
+/*  Localizable.strings
+  iEntry
+
+  Created by ZAFAR on 24/03/2022.
+  */
+//MARK: - Holidays
+"Seleccionar fechas" = "Seleccionar fechas";
+"PERÍODO " = "PERÍODO ";
+"DISPONIBLES" = "DISPONIBLES";
+"USADOS" = "USADOS";
+"SOLICITADOS" = "SOLICITADOS";
+"ESTATUS" = "ESTATUS";
+"TOTALES" = "TOTALES";
+"DÍAS" = "DÍAS";
+"DESDE" = "DESDE";
+"SOLITITADO EN" = "SOLITITADO EN";
+"HASTA" = "HASTA";
+"DÍAS TOTALES" = "DÍAS TOTALES";
+"HOLIDAY_PENDING_TO_VALIDATE" = "VACACIONES PENDIENTE DE VALIDAR";
+"HOLIDAY_DENIED" = "VACACIONES NEGADAS";
+"HOLIDAY_APPROVED" = "VACACIONES APROBADAS";
+"HOLIDAY_CANCELED" = "VACACIONES CANCELADAS";
+"DEPARTAMENTO QUE APROBARÁ" = "DEPARTAMENTO QUE APROBARÁ";
+"JEFE" = "JEFE";
+"DETALLES DE SOLICITUD" = "DETALLES DE SOLICITUD";
+"JEFE QUE LO APROBARÁ" = "JEFE QUE LO APROBARÁ";
+"SOLICITUD DE VACACIONES" = "SOLICITUD DE VACACIONES";
+"PERIODO VACACIONAL" = "PERIODO VACACIONAL";
+"SOLICITAR" = "SOLICITAR";
+"No tienes suficientes hojas" = "No tienes suficientes hojas";
+"Seleccione primero los días" = "Seleccione primero los días";
+"No puede seleccionar una fecha del pasado" = "No puede seleccionar una fecha del pasado";
+//MARK: - Tasks of employee and vehical
+"CANCELAR INVITATACIÓN" = "CANCELAR INVITATACIÓN";
+"CANCELAR SOLICITUD" = "CANCELAR SOLICITUD";
+"Para cancelar la tu solicitud deberás confirmar la acción." = "Para cancelar la tu solicitud deberás confirmar la acción.";
+"NO HAY HISTORIAL DE SOLICITUDES" = "NO HAY HISTORIAL DE SOLICITUDES";
+//MARK: - Welcome
+
+"Access_Granted_First" = "Acceso concedido, Bienvenido";
+"Access_Granted_Last" = "a tu app de control de accesos iEntry Access";
+
+//MARK: - Tasks of employee and vehical
+"No Internet Connection" = "Sin conexión a Internet";
+"!SIN NOTIFICACION¡" = "!SIN NOTIFICACION¡";
+"Total" = "Total";
+"Busca por Marca/Sub-Marca" = "Busca por Marca/Sub-Marca";
+"PRE REGISTRO" = "PRE REGISTRO";
+"PARA CAMBIAR CONTRASEÑA" = "PARA CAMBIAR CONTRASEÑA";
+"PARA APROBAR DOCUMENTO" = "PARA APROBAR DOCUMENTO";
+"Escribe un nombre a buscar ..." = "Escribe un nombre a buscar ...";
+"ACTIVO" = "ACTIVO";
+"EMPLEADOS" = "EMPLEADOS";
+"Masculina" = "Masculina";
+"Femenina" = "Femenina";
+"CAMBIO DE CONTRASEÑA" = "CAMBIO DE CONTRASEÑA";
+"No hay pasos que seguir" = "No hay pasos que seguir";
+"No hay invitaciones que mostrar" = "No hay invitaciones que mostrar";
+"NO ACTIVO" = "NO ACTIVO";
+"DE VACACIONES" = "DE VACACIONES";
+"VACACIONES" = "VACACIONES";
+"V A C A C I O N E S" = "V A C A C I O N E S";
+"!NO HOLIDAYS¡" = "!SIN REGISTRO¡";
+"INFORMACIÓN GENERAL" = "INFORMACIÓN GENERAL";
+"MARCA"= "MARCA";
+"SUB-MARCA" = "SUB-MARCA";
+"COLOR" = "COLOR";
+"EMPLEADOS" = "EMPLEADOS";
+"MODELO" = "MODELO";
+"PLACAS" = "PLACAS";
+"SIN VEHÍCULOS" = "SIN VEHÍCULOS";
+//MARK: - New
+"¿Estás seguro de que quieres cambiar el idioma a inglés? Los cambios se reflejarán automáticamente." = "¿Estás seguro de que quieres cambiar el idioma a inglés? Los cambios se reflejarán automáticamente.";
+"¿Estás seguro de que quieres cambiar el idioma a francés? Los cambios se reflejarán automáticamente." = "¿Estás seguro de que quieres cambiar el idioma a francés? Los cambios se reflejarán automáticamente.";
+"¿Estas seguro de querer cambiar el lenguage a español? Los cambios se verán reflejados en automático." = "¿Estas seguro de querer cambiar el lenguage a español? Los cambios se verán reflejados en automático.";
+
+
+ "¿Estas seguro que deseas desvincular este dispositivo? En automáico se cerrará tu sesión y se eliminaran los datos de esta aplicación." = "¿Estas seguro que deseas desvincular este dispositivo? En automáico se cerrará tu sesión y se eliminaran los datos de esta aplicación.";
+//MARK:- Login Screen
+"NOMBRE DE USUARIO" = "NOMBRE DE USUARIO";
+"OMITIR ONBOARDING" = "OMITIR ONBOARDING";
+"¡BIENVENIDO A IBL!" = "¡BIENVENIDO A IBL!";
+"MISIÓN" = "MISIÓN";
+"VISIÓN" = "VISIÓN";
+"JEFE INMEDIATO" = "JEFE INMEDIATO";
+"ZONA DE TRABAJO" = "ZONA DE TRABAJO";
+"Da click en cada paso una vez realizado" = "Da click en cada paso una vez realizado";
+"CONTRASEÑA" = "CONTRASEÑA";
+"INICIAR SESIÓN" = "INICIAR SESIÓN";
+"¿Has olvidado tu" = "¿Has olvidado tu";
+"contraseña?" = "contraseña?";
+
+//MARK:- Verification Code Screen
+"BIENVENIDO !!!" = "BIENVENIDO !!!";
+"para continuar necesitamos saber algunos datos personales pero antes necesitamos confirmar tu cuenta. En cuestión de segundos te llegará un mensaje de texto que se leerá solo." = "para continuar necesitamos saber algunos datos personales pero antes necesitamos confirmar tu cuenta. En cuestión de segundos te llegará un mensaje de texto que se leerá solo.";
+"Tiempo de vida del mensaje:" = "Tiempo de vida del mensaje:";
+"Nunca llevo el mensaje, enviarlo nuevamente" = "Nunca llevo el mensaje, enviarlo nuevamente";
+
+
+//MARK:- Change Password (Forgot PAssword)
+"INGRESE NUEVA CONTRASEÑA PARA CONTINUAR" = "INGRESE NUEVA CONTRASEÑA PARA CONTINUAR";
+"PASSWORD" = "PASSWORD";
+"ENTRAR" = "ENTRAR";
+
+//MARK:-  Permission VC
+"TE GUSTARÍA INICIAR SESIÓN CON TU HUELLA Y/O ESCANER FACIAL*?" = "TE GUSTARÍA INICIAR SESIÓN CON TU HUELLA Y/O ESCANER FACIAL*?";
+"SÍ, CONTINUAR" = "SÍ, CONTINUAR";
+"no, con contraseña" = "no, con contraseña";
+"*Sujeto a disponibilidad de hardware" = "*Sujeto a disponibilidad de hardware";
+
+
+//MARK:- Password Recovery
+
+"RECUPERACIÓN DE CONTRASEÑA" = "RECUPERACIÓN DE CONTRASEÑA";
+"un breves momentos te llegará un mensaje de recuperación para poder ingresar una nueva contraseña." = "un breves momentos te llegará un mensaje de recuperación para poder ingresar una nueva contraseña.";
+"Time alive for this message:" = "Time alive for this message:";
+"The message never came, send another message" = "The message never came, send another message";
+
+//MARK:- Enter Email VC
+"INGRESE CORREO DEL LA CUENTA A RECUPERAR CONTRASEÑA" = "INGRESE CORREO DEL LA CUENTA A RECUPERAR CONTRASEÑA";
+"CANCELAR" = "CANCELAR";
+"ACEPTAR" = "ACEPTAR";
+
+//MARK:- MethodVC
+"SELECCIONE EL MÉTODO CON EL CUAL DESEA RECUPERAR LA CONTRASEÑA:" = "SELECCIONE EL MÉTODO CON EL CUAL DESEA RECUPERAR LA CONTRASEÑA:";
+"ENVIAR SMS AL CELULAR VINCULADO " = "ENVIAR SMS AL CELULAR VINCULADO ";
+"ENVIAR CÓDIGO AL CORREO DE LA CUENTA" = "ENVIAR CÓDIGO AL CORREO DE LA CUENTA";
+
+//MARK:- NewPassword Screen
+"INGRESE CONTRASEÑA NUEVA" = "INGRESE CONTRASEÑA NUEVA";
+
+//MARK:- SendEmailVC
+"RECUPERACIÓN DE CONTRASEÑA" = "RECUPERACIÓN DE CONTRASEÑA";
+"RECUPERACIÓN DE CONTRASEÑA verifica en tu correo registrado, debió de haberte llegado un mensaje con un código, por favor introducelo, sino lo encuentras en tu bandeja de entrada verifica en la sección de SPAM" = "RECUPERACIÓN DE CONTRASEÑA verifica en tu correo registrado, debió de haberte llegado un mensaje con un código, por favor introducelo, sino lo encuentras en tu bandeja de entrada verifica en la sección de SPAM";
+
+
+
+
+//MARK:- BiomatricLoginVC
+
+"NOMBRE DE USUARIO" = "NOMBRE DE USUARIO";
+ 
+
+//MARK:- ThumnilVC
+"Biometric credentials" = "Biometric credentials";
+"Log in using yout biometric credential" = "Log in using yout biometric credential";
+"Use password App" = "Use password App";
+
+//MARK:- Menu VC
+"NOTIFICACIONES" = "ANUNCIO";
+"CONTRATOS" = "CONTRATOS";
+"PERFIL" = "PERFIL";
+"ORDENES DE COMPRA" = "ORDENES DE COMPRA";
+"COMPAÑIA" = "COMPAÑIA";
+"EVENTOS" = "EVENTOS";
+"INVITACIONES" = "INVITACIONES";
+"JUNTA" = "JUNTA";
+"ANUNCIO" = "ANUNCIO";
+
+//MARK:- Employee
+//MARK:- Company VC
+"C O N T R A C T" = "C O N T R A C T";
+"ACTUALIZAR DATOS" = "ACTUALIZAR DATOS";
+//MARK:- CompanyCell
+"Empleado" = "Empleado";
+"MAPA" = "MAPA";
+"Rol" = "Role";
+"Fechas de Contrato" = "Fechas de Contrato";
+"Inicio" = "Inicio";
+"OPCIONES" = "OPCIONES";
+"Fin" = "Fin";
+
+//MARK:- SchedualVC
+"PROGRAMADOS" = "PROGRAMADOS";
+//MARK:- SchedualCell
+"Nombre del evento" = "Name of the event";
+"Anfitrión" = "Anfitrión";
+"Lugar" = "Lugar";
+"Invitaciones" = "Invitaciones";
+"Reservación" = "Reservación";
+"MAS DETALLES" = "MAS DETALLES";
+"GENERAR QR" = "GENERAR QR";
+
+//MARK:- RecodrVc
+"HISTORIAL" = "HISTORIAL";
+//MARK:- CreateEventVc
+"C R E A R  E V E N T O" = "C R E A R  E V E N T O";
+"ELÍGE UN HORARIO" = "ELÍGE UN HORARIO";
+"ELÍGE LA AREA COMÚN A RESERVAR:" = "ELÍGE LA AREA COMÚN A RESERVAR:";
+"RESERVACIÓN" = "RESERVACIÓN";
+"NO HAY AREAS COMUNES DISPONIBLES" = "NO HAY AREAS COMUNES DISPONIBLES";
+"AGREGAR EVENTO" = "AGREGAR EVENTO";
+"NOMBRE" = "NOMBRE";
+"FECHAS" = "FECHAS";
+"EL" = "EL";
+"A LAS" = "A LAS";
+"CONFIMRMAR" = "CONFIMRMAR";
+//MARK:- EventInvitation
+"I N V I T A C I O N E S  D E L E V E N T O" = "I N V I T A C I O N E S  D E L E V E N T O";
+"Escribe no celular / email para invitar" = "Escribe no celular / email para invitar";
+"O ELIGE EN BASE A TU LISTA DE CONTACTOS" = "O ELIGE EN BASE A TU LISTA DE CONTACTOS";
+"Invitaciones" = "Invitaciones";
+"ENCUENTRA A ALGUIEN" = "ENCUENTRA A ALGUIEN";
+"DE LA LISTA DE EMPLEADOS" = "ENCUENTRA A ALGUIEN";
+"TERMINAR" = "TERMINAR";
+
+//MARK:-  RecordDetailCell
+"EVENTO" = "EVENTO";
+"ANUNCIO" = "ANUNCIO";
+"REUNIÓN" = "REUNIÓN";
+"Nombre:" = "Nombre:";
+"OTRO" = "OTRO";
+"!SIN ARCHIVO¡" = "!SIN ARCHIVO¡";
+"PARA AGREGAR UNO NUEVO EN LA CAMARA O ARCHIVO" = "PARA AGREGAR UNO NUEVO EN LA CAMARA O ARCHIVO";
+"Fecha Reunión : " = "Fecha Reunión: ";
+"Folio #" = "Folio #";
+"INVITATION UNATTENDED" = "INVITACIÓN SIN ATENCIÓN";
+"Deseas cancelar la invitación para" = "Deseas cancelar la invitación para";
+"INVITATION ACCEPTED" = "INVITACIÓN ACEPTADA";
+"INVITATION REJECTED" = "INVITACIÓN RECHAZADA";
+"Invitation failed please verify information" = "Invitación fallida por favor verifique la información";
+"Nombre" = "Nombre";
+"Celular:" = "Celular:";
+//MARK:- VerificationOptionsVC
+"CÓDIGO QR" = "CÓDIGO QR";
+"TOKEN" = "TOKEN";
+"O P C I O N E S" = "O P C I O N E S";
+//MARK:- CompanyMapVC
+"DIRECCIÓN" = "DIRECCIÓN";
+//MARK:- NotificationsVC
+"N O T I F I C A C I O N E S" = "A N U N C I O";
+
+//MARK:- AddProfileDataVc
+"I N F O R M A C I Ó N" = "I N F O R M A C I Ó N";
+"ACRONYM" = "ACRONYM";
+"ADDRESS" = "ADDRESS";
+"Aditional information employee" = "Aditional information employee";
+"Event Approval" = "Event Approval";
+"BIOCR Validation" = "BIOCR Validation";
+"ACTUALIZAR" = "ACTUALIZAR";
+"DETALLES" = "DETALLES";
+//"INDUCCIÓN" = "INDUCCIÓN";
+
+//MARK:- ImagePopUpVc
+"C A M B I A R I M A G E" = "C A M B I A R I M A G E";
+"TOMAR FOTO" = "TOMAR FOTO";
+"SELECCIONAR DE IMAGENES" = "SELECCIONAR DE IMAGENES";
+//MARK:- AddEmployeeVc
+"NOMBRE" = "NOMBRE";
+"CORREO" = "CORREO";
+"CELULAR" = "CELULAR";
+"CONTRASEÑA" = "CONTRASEÑA";
+"GÉNERO" = "GÉNERO";
+"STATUS" = "STATUS";
+//MARK:- AddVehicleVC
+"BRAND" = "BRAND";
+"SUB-BRAND" = "SUB-BRAND";
+"COLOR" = "COLOR";
+"MODEL" = "MODEL";
+"PLATES" = "PLATES";
+"VEHICLE TYPE" = "VEHICLE TYPE";
+"DRIVER" = "DRIVER";
+//MARK:- RecordDetailVC
+"CANCELAR EVENTO" = "CANCELAR EVENTO";
+"ACTUALIZAR EVENTO" = "ACTUALIZAR EVENTO";
+"D E T A L L E S" = "D E T A L L E S";
+"FECHA" = "FECHA";
+"Fecha: " = "Fecha: ";
+//MARK:- AcceptOrRejectPopUpVC
+"CANCELAR EVENTO" = "CANCELAR EVENTO";
+//MARK:- GenralQRCodeVC
+
+"Valido por los siguientes 30 segundos." = "Valido por los siguientes 30 segundos.";
+"ESCANEAR CÓDIGO QR" = "ESCANEAR CÓDIGO QR";
+"VOLVER A GENERAR" = "VOLVER A GENERAR";
+
+//MARK:- QRCodeVC
+"MAPA A LA COMPAÑIA" = "MAPA A LA COMPAÑIA";
+"ESCANEAR CÓDIGO QR" = "ESCANEAR CÓDIGO QR";
+//MARK:- CompanyVerificationVC
+"TOKEN DE ACCESO" = "TOKEN DE ACCESO";
+"VOLVER A GENERAR" = "VOLVER A GENERAR";
+//MARK:UpdateEventVC
+"A C T U A L I Z A R" = "A C T U A L I Z A R";
+"NOMBRE DEL EVENTO" = "NOMBRE DEL EVENTO";
+"ELÍGE UNA FECHA" = "ELÍGE UNA FECHA";
+"HORA" = "HORA";
+"FECHA" = "FECHA";
+"ESCOGE TUS INVITADOS:" = "ESCOGE TUS INVITADOS:";
+"Escribe para buscar ..." = "Escribe para buscar ...";
+"O ELÍGE DE LA LISTA DE CONTACTOS" = "O ELÍGE DE LA LISTA DE CONTACTOS";
+"GUARDAR CAMBIOS" = "GUARDAR CAMBIOS";
+"CASA" = "CASA";
+"OPCIONES CÓDIGO QR" = "OPCIONES CÓDIGO QR";
+"MAPA DE LA COMPAÑIA" = "MAPA DE LA COMPAÑIA";
+//MARK:- CancelEventinvitationVc
+"CANCELAR INVITACIÓN" = "CANCELAR INVITACIÓN";
+"Deseas cancelar la invitación?" = "Deseas cancelar la invitación?";
+"¿Estas seguro de querer eliminar la notificación? Confirma para ejecutar su acción" = "¿Estas seguro de querer eliminar la anuncio? Confirma para ejecutar su acción";
+
+//MARK:- InvitationPopUpVC
+"I N V I T A C I Ó N" = "I N V I T A C I Ó N";
+"Ingrese el número de invitados que llegarán" = "Ingrese el número de invitados que llegarán";
+"ZONAS" = "ZONAS";
+"E V E N T O S" = "E V E N T O S";
+"HISTORIAL" = "HISTORIAL";
+"PROXIMOS" = "PROXIMOS";
+"POR VALIDAR" = "POR VALIDAR";
+"NO INIVITADOS" = "NO INIVITADOS";
+
+//MARK:- UpdateProfileVC
+"Datos" = "Datos";
+"Contraseña" = "Contraseña";
+"Correo" = "Correo";
+"Celular" = "Celular";
+"Fecha de cumpleaños" = "Fecha de cumpleaños";
+"Género" = "Género";
+"Información extra" = "Información extra";
+"Información personal" = "Información personal";
+"ADDESS 1" = "ADDESS 1";
+"ADDESS 2" = "ADDESS 2";
+"STATE" = "STATE";
+"COUNTRY" = "COUNTRY";
+"POST CODE" = "POST CODE";
+"HOME NUMBER" = "HOME NUMBER";
+"ARABIC NAME" = "ARABIC NAME";
+"BLOOD TYPE" = "BLOOD TYPE";
+"Idiomas" = "Idiomas";
+"Español" = "Español";
+"Ingles" = "Ingles";
+"Tipo de Acceso" = "Access Type";
+"Use biometrics storate in the phone" = "Use biometrics storate in the phone";
+"DESVINCULAR DISPOSITIVO" = "DESVINCULAR DISPOSITIVO";
+
+
+//MARK:- UserPersonalVC
+"Información" = "Información";
+"Masculino" = "Masculino";
+"CONTRASEÑA" =  "CONTRASEÑA";
+"CORREO" = "CORREO";
+"NO CELULAR" = "NO CELULAR";
+"CUMPLEAÑOS" = "CUMPLEAÑOS";
+"ACTUALIZAR DATOS" = "ACTUALIZAR DATOS";
+
+//MARK:- InvitorVC
+"INVITAR" = "INVITAR";
+
+//MARK:- ContactListVc
+"L I S T A  D E  C O N T A C T O S" = "L I S T A  D E  C O N T A C T O S";
+//MARK:- NewinvitationVc
+"INVITACIONES" = "INVITACIONES";
+"Empresa" = "Empresa";
+"Anfitrión" = "Anfitrión";
+"Invitaciones" = "Invitaciones";
+//MARK:- UserNotRegisterPopUpVC
+"USUARIO NO\n ENCONTRADO" = "USUARIO NO\n ENCONTRADO";
+"No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros." = "No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros.";
+
+
+//MARK:- PreRegisteruservc
+"DATOS DE USUARIO" = "USER DATA";
+
+//MARK:- LogoutPopUpVc
+"CERRAR SESIÓN" = "CERRAR SESIÓN";
+"Estás apunto de cerrar sesión, se desvinculará el dispositivo en el que esta la sesión activa. ¿Deseas continuar?" = "Estás apunto de cerrar sesión, se desvinculará el dispositivo en el que esta la sesión activa. ¿Deseas continuar?";
+//MARK:- NoOFInvitationVc
+"D A T O S E X T R A" = "EXTRA DATA";
+"Ingrese el número de invitados permitidos por invitación" = "Ingrese el número de invitados permitidos por invitación";
+//MARK:- NewNotification
+"TÍTULO" = "TÍTULO";
+"TIPO DE NOTIFICACIÓN" = "TIPO DE ANUNCIO";
+"TIPO" = "TIPO";
+"DE" = "DE";
+"ALCANCE" = "ALCANCE";
+"MENSAJE" = "MENSAJE";
+"N U E V A  N O T I F I C A CI O N" = "N U E V A  A N U N C I O";
+"ENVIAR" = "ENVIAR";
+"MIS INVITACIONES" = "MIS INVITACIONES";
+"HISTORIAL" = "HISTORIAL";
+//MARK:- ContractHistoryVc
+"HISTORIAL CONTRATOS" = "HISTORIAL CONTRATOS";
+//MARK:- ContractListCell
+"Grupo Tepeyac Mexico" = "Grupo Tepeyac Mexico";
+"Inicio de contrato" = "Inicio de contrato";
+"Fin de contrato" = "Fin de contrato";
+"VER DETALLES" = "VER DETALLES";
+"AGREGAR CONTRATISTA +" = "AGREGAR CONTRATISTA +";
+"Escribe no celular / email para invitar" =  "Escribe no celular / email para invitar";
+"CONTRATISTA" = "CONTRATISTA";
+"CREAR CONTRATO" = "CREAR CONTRATO";
+
+//MARK:- ContractDetailVC
+"D E T A L L E S" = "D E T A L L E S";
+"Grupo Tepeyac Mexico" = "Grupo Tepeyac Mexico";
+"No. de empleados" = "No. de empleados";
+"No. vehículos" = "No. vehículos";
+
+//MARK:- UpdateContractVC
+"INICIO DE CONTRATO" = "INICIO DE CONTRATO";
+"FIN DE CONTRATO" = "FIN DE CONTRATO";
+"A C T U A L I Z A R C O N T R A T O" = "A C T U A L I Z A R C O N T R A T O";
+"CONTRATOS" = "CONTRATOS";
+
+//MARK:- ProviderDetail
+"INFORMACIÓN DEL PROVEEDOR" = "INFORMACIÓN DEL PROVEEDOR";
+"Vehículo" = "Vehículo";
+"INFORMACIÓN DE ENTREGA" = "INFORMACIÓN DE ENTREGA";
+"Producto" = "Producto";
+"Descripción" = "Descripción";
+"INFORMACIÓN DEL PROVEEDOR" = "INFORMACIÓN DEL PROVEEDOR";
+"Recibido por" = "Recibido por";
+"Fecha de entrega" = "Fecha de entrega";
+
+//MARK:- ContractinformationVc
+"I N F O R M A C I Ó N" = "I N F O R M A C I Ó N";
+"Contratista encargado" = "Contratista encargado";
+"Inicio Contrato" = "Inicio Contrato";
+"Fin Contrato" = "Fin Contrato";
+//MARK:- AddcontractVc
+"ACRÓNIMO" = "ACRÓNIMO";
+"ENCARGADO" = "ENCARGADO";
+"A G R E G A R C O N T R A T I S T A" = "A G R E G A R C O N T R A T I S T A";
+
+//AMRK:-  ContractorDetailVC
+"D E T A L L E S" = "D E T A L L E S";
+"NÚMERO" = "NÚMERO";
+//MARK:-  UpdateContractorVc
+"ESTATUS" = "ESTATUS";
+//MARK:- CurrentOrderVc
+"ORDENES EN CURSO" = "ORDENES EN CURSO";
+"O R D E N E S" = "O R D E N E S";
+//MARK:- Currentordercell
+"INFORMACIÓN DEL PROVEEDOR" = "INFORMACIÓN DEL PROVEEDOR";
+"Compañia" = "Compañia";
+"INFORMACIÓN DE ENTREGA" = "INFORMACIÓN DE ENTREGA";
+"ETA" = "ETA";
+//MARK:- OrderhistoryVc
+"HISTORIAL ORDENES" = "HISTORIAL ORDENES";
+
+//MARK:-  OrderHistoryCell
+"INFORMACIÓN DEL PROVEEDOR" = "INFORMACIÓN DEL PROVEEDOR";
+"INFORMACIÓN DE RECIBIDO" = "INFORMACIÓN DE RECIBIDO";
+//Custom Message
+"you have no Contracts" = "no tienes contratos";
+"Try Again!" = "¡Intentar otra vez!";
+"you have no Contracts" = "no tienes contratos";
+"you have no Invitation" = "no tienes invitación";
+"you have no Notification" = "no tienes anuncio";
+"you have no Events Invitations" = "no tienes invitaciones a eventos";
+"you have no Events" = "no tienes eventos";
+"Contrato" = "Contrato";
+
+"Fecha y Hora" = "Fecha y Hora";
+"Duración" = "Duración";
+"NUEVA FECHA DEL EVENTO" = "NUEVA FECHA DEL EVENTO";
+"!SIN EVENTOS¡" = "!SIN EVENTOS¡";
+"!SIN TAREAAS¡" = "!SIN TAREAAS¡";
+
+"CLICK AQUÍ PARA AGREGAR UNO NUEVO Ó EN EL + BOTÓN" = "CLICK AQUÍ PARA AGREGAR UNO NUEVO Ó EN EL + BOTÓN";
+"En estos momentos no cuentas con tareas a segulr" = "En estos momentos no cuentas con tareas a segulr";
+"ACOMPAÑAMIENTO" = "ACOMPAÑAMIENTO";
+"PROPOSITO DE LA VISITA" = "PROPOSITO DE LA VISITA";
+"UNIDAD / SECCIÓN" = "UNIDAD / SECCIÓN";
+"CREAR EVENTO" = "CREAR EVENTO";
+"DETALLES" = "DETALLES";
+"SIGUIENTE" = "SIGUIENTE";
+"COMENTARIOS PARA VISITANTES." = "COMENTARIOS PARA VISITANTES.";
+"VISITORS" = "VISITORS";
+"ANTERIOR" = "ANTERIOR";
+"VEHÍCULOS" = "VEHÍCULOS";
+"DA DE ALTA UN NUEVO VEHÍCULO" = "DA DE ALTA UN NUEVO VEHÍCULO";
+"Marca:" = "Marca:";
+"Sub-Marca:" = "Sub-Marca:";
+"Placas: " = "Placas: ";
+"VIN:" = "VIN:";
+"SUB - MARCA" = "SUB - MARCA";
+"D A T O S  D E V E H Í C U L O" = "D A T O S  D E V E H Í C U L O";
+"COMENTARIOS PARA VALIDATION." = "COMENTARIOS PARA VALIDATION.";
+"OPCIONES DE VALIDACIÓN" = "OPCIONES DE VALIDACIÓN";
+"TRANSPORTE REQUERIDO" = "TRANSPORTE REQUERIDO";
+"SÍ" = "SÍ";
+"ACOMPAÑAMIENTO" = "ACOMPAÑAMIENTO";
+"PROPOSITO DE LA VISITA" = "PROPOSITO DE LA VISITA";
+"UNIDAD / SECCIÓN" = "UNIDAD / SECCIÓN";
+"VISITANTES" = "VISITANTES";
+"CANCELAR EVENTO" = "CANCELAR EVENTO";
+"Estás seguro de querer eliminar este evento? La reservación y todas las invitaciones serán eliminadas en conjunto de la operación." = "Estás seguro de querer eliminar este evento? La reservación y todas las invitaciones serán eliminadas en conjunto de la operación.";
+"ASISTIRÉ" = "ASISTIRÉ";
+"USUARIOS POR INVITAR" = "USUARIOS POR INVITAR";
+"Saldrás sin invitar usuarios tu proceso no será guardado. ¿Estás seguro quieres salir?" = "Saldrás sin invitar usuarios tu proceso no será guardado. ¿Estás seguro quieres salir?";
+"Primer apellido" = "Primer apellido";
+"segundo apellido" = "segundo apellido";
+"¿Deseas confirmar tu participación en el evento?" = "¿Deseas confirmar tu participación en el evento?";
+"ATENDER INVITACIÓN" = "ATENDER INVITACIÓN";
+"NO ASISTIRÉ" = "NO ASISTIRÉ";
+"Agrega el código de tu país." = "Agrega el código de tu país.";
+"ORGANIZACIÓN" = "ORGANIZACIÓN";
+"SITIO PARA RECOGER" = "SITIO PARA RECOGER";
+"NÚMERO DE ACOMPAÑANTES" = "NÚMERO DE ACOMPAÑANTES";
+"GZ BADGE" = "GZ BADGE";
+"COMPARTIR PDF" = "COMPARTIR PDF";
+"INVITACIÓN YA HA SIDO CREADA" = "INVITACIÓN YA HA SIDO CREADA";
+"La invitación ha sido creada, si deseas cambiar algún dato, debes eliminarla y volver a invitar a esa persona." = "La invitación ha sido creada, si deseas cambiar algún dato, debes eliminarla y volver a invitar a esa persona.";
+"USUARIO NO\n ENCONTRADO" = "USUARIO NO\n ENCONTRADO";
+"No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros." = "No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros.";
+"USUARIO YA EXISTE" = "USUARIO YA EXISTE";
+"Ya existe el correo/número en la base deseas, son de este usuario, deseas seleccionarlo?" = "Ya existe el correo/número en la base deseas, son de este usuario, deseas seleccionarlo?";
+"NÚMERO TELEFÓNICO" = "NÚMERO TELEFÓNICO";
+
+
+
+
+
+"app_name"="iEntry Corporate";
+"navigation_drawer_open"="Open navigation drawer";
+"navigation_drawer_close"="Close navigation drawer";
+"nav_header_title"="Luis Enrique Cornejo Arreola";
+"nav_header_subtitle"="lcornejo@iblmx";
+"nav_header_desc"="Navigation header";
+"action_settings"="Settings";
+
+//<!-- NEVER CHANGES -->
+"settings_app"="SETTINGS_APP";
+"settings_app_biometric"="SETTINGS_BIOMETRIC_ACCESS";
+"settings_app_language"="SETTINGS_LANGUAGE";
+"settings_app_session"="SETTINGS_SESSION";
+//<!-- - - - - - - - - - - - - - - - - - - - - - -->
+
+//<!-- TITLES -->
+"lb_unlink_device_iOS" = "No puede iniciar sesión en otro dispositivo, primero debe dejar de gustar el otro dispositivo o iniciar sesión en el mismo dispositivo";
+"lb_title_undefined"="INDEFINIDO";
+"lb_title_enable"="Habilitado";
+"lb_title_disable"="Deshabilitado";
+"lb_title_spanish"="español";
+"lb_title_english"="english";
+"lb_title_french"="français";
+"lb_title_greetings"="Hola";
+"lb_title_password"="CONTRASEÑA";
+"lb_title_upper_title"="TITULO";
+"lb_title_upper_input_message"="MENSAJE";
+"lb_title_upper_input_type"="TIPO";
+"lb_title_upper_announcement_type"="TIPO DE NOTIFICACIÓN";
+"lb_title_upper_scope"="ALCANCE";
+"lb_title_add_contractor"="Agregar contratista";
+"lb_title_end_contract_date"="Fin de contrato";
+"lb_title_start_contract_date"="Inicio de contrato";
+"lb_title_event"="evento";
+"lb_title_login"="INICIAR SESIÓN";
+"lb_title_forget_password_1"="¿Olvidaste tu";
+"lb_title_forget_password_2"="contraseña";
+"lb_title_forget_password_3"="\?";
+"lb_title_validate_user_credentials"="Validando credenciales de acceso";
+"lb_title_add_biometric_credentials"="Agregar credenciales biometricas";
+"lb_title_error_biometric_credentials"="Error con credenciales biometricas";
+"lb_title_scope_all"="TODOS( empleados, proveedores, contratistas)";
+"lb_title_scope_employee"="SOLO EMPLEADOS";
+"lb_title_scope_supplier"="SOLO PROVEEDORES";
+"lb_title_scope_contractor"="SOLO CONTRATISTAS";
+"lb_title_scope_choose_some_employees"="SELECCIONAR DE EMPLEADOS";
+"lb_title_host"="Anfintrión";
+"lb_title_no_introduction"="Sin introducción.";
+"lb_title_no_vision"="Sin visión.";
+"lb_title_no_mission"="Sin misión.";
+"lb_title_status"="ESTATUS";
+"lb_title_log_out"="Cerrar Sesión";
+"lb_title_account_settings"="Ajustes de cuenta";
+"lb_title_normal_data"="Información personal";
+"lb_title_phone_number"="CELULAR";
+"lb_title_gender"="GÉNERO";
+"lb_title_male"="MASCULINO";
+"lb_title_female"="FEMENINO";
+"lb_title_other"="OTRO";
+"lb_title_user_data"="Información de usuario";
+"lb_title_empty_credentials"="Usuario y/o contraseña vacios, ingrese las credenciales y vuelva a intentarlo";
+"lb_title_invalid_otp"="Código expirado, vuelva a solicitar uno nuevo";
+"lb_title_choose_method"="SELECCIONE EL MÉTODO CON EL CUAL DESEA RECUPERAR LA CONTRASEÑA:";
+"lb_title_recover_password"="RECUPERACIÓN DE CONTRASEÑA";
+"lb_title_name"="NOMBRE";
+"lb_title_last_name"="PRIMER APELLIDO";
+"lb_title_second_last_name"="SEGUNDO APELLIDO";
+"lb_title_no_phone"="NO CELULAR";
+"lb_title_email"="CORREO";
+"lb_title_from"="De";
+"lb_title_to"="A";
+"lb_title_description"="Descripción";
+"lb_title_select_company"="SELECCIONE UNA COMPAÑIA:";
+"lb_title_company_upper_case"="COMPAÑIA";
+"lb_title_contract"="CONTRATO";
+"lb_title_contracts"="contractos";
+"lb_title_purchases"="ordenes de compra";
+"lb_title_incoming_purchase"="ORDENES PROXIMOS/CURSO";
+"lb_title_purchase_record"="HISTORIAL ORDENES";
+"lb_title_incoming_contracts"="CONTRATOS PROXIMOS/CURSO";
+"lb_title_contract_record"="HISTORIAL CONTRATOS";
+"lb_title_role"="Rol";
+"lb_title_map_upper_case"="MAPA";
+"lb_title_contract_dates"="Fechas de Contrato";
+"lb_title_start_contract"="Inicio";
+"lb_title_end_contract"="Fin";
+"lb_title_access_token"="TOKEN DE ACCESSO";
+"lb_title_contractor"="CONTRATISTAS";
+"lb_title_information"="INFORMACIÓN";
+"lb_title_address"="DIRECCIÓN";
+"lb_title_update"="ACTUALIZAR";
+"lb_title_required_permissions"="Permisos Requeridos";
+"lb_title_no_internet_connection"="Sin conexión a internet";
+"lb_title_try_later"="Intentalo más tarde o verifica tu conexión a internet";
+"lb_title_no_password_offline"="Intentando con contraseña almacenada";
+"lb_title_sync_information"="Sincronizando Información";
+"lb_title_validate_incorrect_credentials"="Credenciales incorrectas";
+"lb_title_api_error"="Error en el API, contacte a los desarrolladores";
+"lb_title_invalid_contract"="Contracto no valido o tiempo expirado";
+"lb_title_downloading_data"="Descargando información importante del servidor";
+"lb_title_validate_data"="Validando Información";
+"lb_title_new_user"="Usuario nuevo, favor de validar la cuenta";
+"lb_title_valid_credentials"="Credenciales correctas";
+"lb_title_validate_access_granted"="Acceso concedido";
+"lb_title_date_time"="Fecha y hora";
+"lb_title_email_phone_number"="CELULAR / CORREO";
+"lb_title_invite"="invitar";
+"lb_title_invite_to_event"="invitar a evento";
+"lb_title_contact_list"="LISTA DE CONTACTOS";
+"lb_title_user_data_upper_case"="DATOS DE USUARIO";
+"lb_title_invitation_upper_case"="INVITACIÓN";
+"lb_title_date_lower_case"="Fecha";
+"lb_title_date_upper_case"="FECHA";
+"lb_title_no_invitation_upper_case"="NO. ACOMPAÑANTES";
+"lb_title_no_visitor"="Ingrese el número de invitados que llegaran, max. 99";
+"lb_title_language_lower_case"="Idiomas";
+"lb_title_access_type"="Tipo de Acceso";
+"lb_title_extra_information"="Información extra";
+"lb_title_header_1"="Header 1";
+"lb_title_header_2"="Header 2";
+"lb_title_header_3"="Header 3";
+"lb_title_header_4"="Header 4";
+"lb_title_header_5"="Header 5";
+"lb_title_header_6"="Header 6";
+"lb_title_header_7"="Header 7";
+"lb_title_header_8"="Header 8";
+"lb_title_header_9"="Header 9";
+"lb_title_header_10"="Header 10";
+"lb_title_header_11"="Header 11";
+"lb_title_header_12"="Header 12";
+"lb_title_header_13"="Header 13";
+"lb_title_header_14"="Header 14";
+"lb_title_header_15"="Header 15";
+"lb_title_there_are_changes"="Descartar Cambios";
+"lb_title_new_announcement"="NUEVA NOTIFICATIÓN";
+"lb_title_announcement_upper_case"="NOTIFICACIONES";
+"lb_title_time_upper_case"="HORA";
+"lb_title_view_details_upper_case"="VER DETALLES";
+"lb_title_person_in_charge_upper_case"="ENCARGADO";
+"lb_title_contractor_in_charge_lower"="Contratista encargado";
+"lb_title_contractor_company_lower"="Compañia contratista";
+"lb_title_details"="DETALLES";
+"lb_title_find_someone"="Encuentra a alguien";
+"lb_title_employee_list"="LISTA DE EMPLEADOS";
+"lb_title_zone_list"="LISTA DE ZONAS";
+"lb_title_event_name"="NOMBRE DEL EVENTO";
+"lb_title_place"="lugar";
+"lb_title_start"="inicio";
+"lb_title_booking"="reservación";
+"lb_title_duration"="DURACIÓN";
+"lb_title_download_pdf"="descargar pdf";
+"lb_title_cancel_event"="CANCELAR EVENTO";
+"lb_title_update_event"="ACTUALIZAR EVENTO";
+"lb_title_invitations"="invitaciones";
+"lb_title_create_event"="crear evento";
+"lb_title_choose_zone"="elige una zona a reservar";
+"lb_title_choose_date"="elíge una fecha de evento";
+"lb_title_zone_selected"="zona seleccionda";
+"lb_title_confirm_event"="confirmar evento";
+"lb_title_current_booking"="reservación actual";
+"lb_title_upper_visit_purpose"="PROPOSITO DE LA VISITA";
+"lb_title_upper_unit_section"="UNIDAD / SECCIÓN";
+"lb_title_upper_accompanied"="ACOMPAÑAMIENTO";
+"lb_title_create_new_vehicle"="dar de alta un nuevo vehículo";
+"lb_title_visitor"="invitado";
+"lb_title_employee"="empleado";
+"lb_title_none"="none";
+"lb_title_contractor_employee"="empleado de contratista";
+"lb_title_supplier"="proveedor";
+"lb_title_supplier_employee"="empleado de proveedor";
+"lb_title_supplier_data"="información del proveedor";
+"lb_title_delivery_data"="información de entrega";
+"lb_title_eta"="eta";
+"lb_title_item"="producto";
+"lb_title_delivery_at"="entregado en";
+"lb_title_receive_by"="recibido por";
+"lb_title_share_pdf"="compartir pdf";
+"lb_title_place_to_pick_up"="LUGAR PARA RECOGER";
+"lb_title_gz_badge"="gz badge";
+"lb_title_organization"="ORGANIZATION";
+"lb_title_vehicle_data"="datos de vehículo";
+"lb_title_upper_brand"="MARCA";
+"lb_title_upper_sub_brand"="SUB-MARCA";
+"lb_title_upper_model"="MODELO";
+"lb_title_upper_plates"="PLACAS";
+"lb_title_vehicle_list"="LISTA DE VEHÍCULOS";
+"lb_title_transportation_is_required_title"="transporte requerido";
+"lb_title_comments_to_validation"="COMENTARIOS PARA VALIDACIÓN";
+"lb_title_validation_options"="opciones de validación";
+"lb_title_visitor_comments"="COMENTARIOS PARA VISITANTES";
+"lb_title_visitors"="visitors";
+"lb_title_vehicle"="vehículo";
+"lb_title_onboarding"="onboarding";
+"lb_title_upper_color"="COLOR";
+"lb_title_upper_serial_number"="NÚMERO DE SERIE";
+"lb_title_upper_vin"="VIN";
+"lb_title_employees"="empleados";
+"lb_title_assets"="multimedia";
+"lb_title_add_image"="agregar imagen";
+"lb_title_add_file"="agregar archivo";
+"lb_title_image"="imagen";
+"lb_title_file"="archivo";
+"lb_title_department"="Departamento";
+"lb_title_work_station"="Lugar de Trabajo";
+"lb_title_mission"="misión";
+"lb_title_vision"="visión";
+"lb_title_boss"="jefe inmediato";
+"lb_title_onboarding_instructions"="Da click en cada paso una vez realizado.";
+"lb_title_finish_process"="salir del proceso";
+"lb_title_purchase_info"="información de la orden";
+"lb_title_events"="eventos";
+"lb_titles_dob"="Fecha de cumpleaños";
+"lb_titles_vehicles"="Vehículos";
+"lb_title_item_add_vehicle"="AGREGAR NUEVO VEHICULO";
+"lb_title_fp_dob"="FECHA DE NACIMIENTO";
+
+//<!-- VALUES -->
+"lb_value_company"=" |";
+"lb_value_full_company"=" | ";
+
+"lb_value_access_with_biometrics"="Acceso con credenciales biometricas: ";
+"lb_value_keep_session_alive"="Manter sessión activa, estado";
+"lb_value_language_change"="Lenguaje de la applicación cambiado a: ";
+"lb_value_password"="*********";
+"lb_value_access_granted"="Acceso concedido, Bienvenido  a tu app de control de accesos iEntry Access.";
+"lb_value_welcome"="BIENVENIDO !!! ";
+"lb_value_min"=" MIN";
+"lb_value_from_date"="Desde: ";
+"lb_value_to_date"="Hasta: ";
+"lb_value_qr_code_expire"="Código válido por los siguientes  segundos";
+"lb_value_name"="Nombre: ";
+"lb_value_phone_number"="Celular: ";
+"lb_value_role"="Rol: ";
+"lb_value_email"="Correo: ";
+"lb_value_date"="Fecha: ";
+"lb_value_no_invitations"=" Invitaciones";
+"lb_value_no_contacts"="Total de contactos ";
+"lb_value_date_meeting"="Fecha de la reunión: ";
+"lb_value_sub_brand"="Sub-marca: ";
+"lb_value_vin"="VIN: ";
+"lb_value_brand"="Marca: ";
+"lb_value_plates"="Placas: ";
+"lb_value_no_vehicles"=" vehículos";
+"lb_value_folio"="Folio # ";
+"lb_value_size_kb"="tamaño:  KB";
+"lb_value_welcome_onboarding"="!Bienvenido a  ¡";
+"lb_value_size_mb"="tamaño:  MB";
+
+//<!-- MENU ITEMS -->
+"menu_home"="HOME";
+"menu_announcement"="NOTIFICACIONES";
+"menu_company"="COMPAÑIA";
+"menu_qr_code_options"="GENERAR / ESCANEAR CÓDIGO QR";
+"menu_access_token"="TOKEN DE ACCESO";
+"menu_map"="MAPA A LA COMPAÑIA";
+"menu_invitation"="INVITACIONES";
+"menu_event"="EVENTOS";
+"menu_purchase"="ORDENES DE COMPRA";
+"menu_employee"="EMPLEADOS";
+"menu_vehicle"="VEHICULOS";
+"menu_contracts"="CONTRACTOS";
+"menu_profile"="PERFIL";
+
+//<!-- TABS ITEMS -->
+"lb_tab_incoming"="PROXIMOS";
+"lb_tab_in_validation"="EN VALIDACIÓN";
+"lb_tab_my_invitations"="MIS INVITACIONES";
+"lb_tab_record"="HISTORIAL";
+"lb_tab_first"="FIRST";
+"lb_tab_second"="SECOND";
+"lb_tab_third"="THIRD";
+
+//<!-- BUTTON - ACTIONS -->
+"lb_btn_create"="CREAR";
+"lb_btn_last"="ANTERIOR";
+"lb_btn_remove"="REMOVER";
+"lb_btn_download"="DESCARGAR";
+"lb_btn_accept"="ACEPTAR";
+"lb_btn_attend"="ASISTIRÉ";
+"lb_btn_add"="AGREGAR";
+"lb_btn_send"="ENVIAR";
+"lb_btn_go_back"="REGRESAR";
+"lb_btn_go_out"="SALIR";
+"lb_btn_discard"="DESCARTAR";
+"lb_btn_next"="SIGUIENTE";
+"lb_btn_go"="CONTINUAR";
+"lb_btn_no_send"="NO ENVIAR";
+"lb_btn_cancel"="CANCELAR";
+"lb_btn_reject"="RECHAZAR";
+"lb_btn_go_to"="IR A AJUSTES";
+"lb_btn_save_changes"="GUARDAR CAMBIOS";
+"lb_btn_confirm"="CONFIRMAR";
+"lb_btn_create_event_upper_case"="CREAR EVENTO";
+
+//<!-- Dialogs titles -->
+"lb_dialog_title_user_to_invite"="usuarios por invitar";
+"lb_dialog_title_user_not_found"="usuarios no encontrado";
+"lb_dialog_title_attend_invitation"="atender invitación";
+"lb_dialog_title_change_language"="cambio de lenguage";
+"lb_dialog_title_unlink_device"="desvincular dispositivo";
+"lb_dialog_title_log_out"="cerrar sesión";
+"lb_dialog_title_get_out_without_changes"="cambios en el perfil";
+"lb_dialog_title_save_changes"="guardar cambios";
+"lb_dialog_title_share_invitation"="compartir invitación";
+"lb_dialog_title_cancel_event"="cancelar evento";
+"lb_dialog_title_remove_invitation"="remover invitación";
+"lb_dialog_title_download_file"="descargar archivo";
+"lb_dialog_title_lost_progress"="descartar progreso";
+"lb_dialog_title_delete_announcement"="eliminar notificación";
+"lb_dialog_title_none"="no option";
+
+//<!-- Dialogs messages -->
+"lb_dialog_message_user_to_invite"="Aún existen usuarios por invitar, si aceptas la acción sus invitaciones no serán enviadas.";
+"lb_dialog_message_event_user_to_invite"="Saldrás sin invitar usuarios, tu proceso no será guardado. ¿Estás seguro quieres salir?";
+"lb_dialog_message_user_not_found"="No sé encontró asociado ningún celular correo en nuestros servidores, para poder invitarlo es necesario proporcionar ciertos datos para nuestros registros.";
+"lb_dialog_message_attend_invitation"="¿Deseas confirmar tu participación para la invitación?";
+"lb_dialog_message_change_language"="¿Estas seguro de querer cambiar el lenguage a ? Los cambios se verán reflejados en automático.;";
+"lb_dialog_message_unlink_device"="¿Estas seguro que deseas desvincular este dispositivo? En automáico se cerrará tu sesión y se eliminaran los datos de esta aplicación.";
+"lb_dialog_message_log_out"="Estás apunto de cerrar sesión, se desvinculará el dispositivo en el que esta la sesión activa. ¿Deseas continuar?";
+"lb_dialog_message_get_out_without_changes"="Si sales sin guardar los cambios, todo lo registrado se perderá y tendrás nuevamente que volver a hacer los cambios. ¿Estás seguro que quieres descartar los cambios?";
+"lb_dialog_message_save_changes"="Para aplicar los cambios en los datos de usuario, favor de confirmarlo.";
+"lb_dialog_message_share_invitation"="Para abrir el intent implícito, click en enviar.";
+"lb_dialog_message_cancel_event"="Estas apunto de cancelar el evento. ¿Desar continuar con esta acción, los cambios no podrán revertirse?";
+"lb_dialog_message_remove_invitation"="Estas apunto de eliminar esta invitación. ¿Desar continuar con esta acción, los cambios no podrán revertirse?";
+"lb_dialog_message_download_file"="Parar descargar el archivo confirmar la acción, una vez confirmada la descargar comenzará en automático. Además se abrirá en automático.";
+"lb_dialog_message_delete_progress"="¿Estas seguro de querer eliminar la notificación? Confirma para ejecutar su acción";
+"lb_dialog_message_none"="Ninguna opción seleccionada";
+
+//<!-- Signals / Pre Fix / Sub Fix-->
+"lb_dash"="-";
+"lb_min"="MIN.";
+"lb_yes_value"="SÍ";
+"lb_no_value"="NO";
+
+//<!-- Text Success -->
+"lb_success_event_created"="El evento fue creado de manera exitosa.";
+"lb_success_onu_event_created"="El evento y las invitaciones fueron creados de maneara exitosa.";
+"lb_success_complete_onboarding"="Pasos guardado de manera exitosa.";
+"lb_success_open_door"="Autenticación correcta, la puerta abrirá en breves.";
+"lb_success_deleting_announcement"="Notificación eliminada exitosamente.";
+"lb_success_updating_data"="Información fue actualizada con éxito.";
+"lb_success_updating_extra_data"="Información extra fue actualizada con éxito.";
+"lb_success_get_incoming_events"="Eventos entrantes sincronizdos con éxito.";
+"lb_success_get_incoming_purchases"="Ordenes entrantes sincronizdas con éxito.";
+"lb_success_get_record_purchases"="Historial de ordenes sincronizadas con éxito.";
+"lb_success_get_incoming_contracts"="Contractos entrantes sincronizdos con éxito.";
+"lb_success_get_record_contracts"="Historial de contratos sincronizados con éxito.";
+"lb_success_get_incoming_orders"="Ordenes entrantes sincronizadas con éxito.";
+"lb_success_get_record_orders"="Historial de ordenes sincronizadas con éxito.";
+"lb_success_get_invitations"="Invitaciones sincronizadas con éxito.";
+"lb_success_get_employees"="Empleados sincronizados con éxito.";
+"lb_success_get_vehicles"="Vehiculos sincronizados con éxito.";
+"lb_success_creating_announcement"="Notificación creada y envíada con éxito.";
+"lb_success_generating_qr_code"="Código QR generado correctamente, acerca al lector para poder acceder.";
+//<!-- Text Warning -->
+"lb_warning_onboarding_was_skip"="Se ha omitido el proceso de onboarding, ya no lo verás más.";
+"lb_warning_empty_onboarding_process"="List vacía, no se ha avanzando en el proceso.";
+"lb_warning_no_image_selected"="Ninguna imagen fue seleccionada.";
+"lb_error_getting_image"="Error al cargar imagen, intente con otra puede que este dañada.";
+"lb_warning_invalid_name"="Campo nombre no pude estar vacío";
+"lb_warning_invalid_last_name"="Campo primer apellido no pude estar vacío";
+"lb_warning_empty_password"="Contraseña vacía";
+"lb_warning_vehicle_was_added"="Vehículo ya ha sido selecionado y se encuentra en la lista.";
+"lb_warning_visitor_empty"="Visitante no seleccionado.";
+"lb_warning_zone_empty"="Zona no seleccionada.";
+"lb_warning_invalid_date"="La fecha no puede ser menor/igual que la actual.";
+"lb_warning_event_name_empty"="Campo nombre vacío.";
+"lb_warning_duration_empty"="Campo duración no puede ser igual/menos que cero.";
+"lb_warning_no_invitations"="Agrega al menos un invitado para continuar";
+"lb_warning_invalid_email"="Formato de correo no valido";
+"lb_warning_invalid_phone_number"="Formato de número no valido";
+"lb_warning_user_already_in_list"="Usuario ya fue agregado a la lista";
+"lb_warning_data_empty"="Campos de información vacíos, favor de completar todos los campos requeridos";
+
+//<!-- Text helpers -->
+"lb_helper_selected_pfd_app"="Eligé la app dónde quieras abrir el archivo";
+"lb_helper_password"="*Longitud mínima de 6 carácteres";
+"lb_helper_hardware_is_mandatory"="*Sujeto a disponibilidad de hardware";
+
+//<!-- Text Info -->
+"lb_info_password_length"="Longitud de la contraseña debe ser al menos 6 caracteres.";
+"lb_info_no_internet_connection"="Sin conexión a internet, verifique su conexión para poder seguir con el proceso.";
+"lb_info_email_re_send"="Código enviado nuevamente al correo introduciado anteriormente";
+"lb_info_sms_re_send"="Código enviado nuevamente al número introduciado anteriormente";
+"lb_info_can_not_create_invitation"="Sólo se puede crear invitaciones cuando se tiene internet, verifiqué su conexión.";
+"lb_info_can_not_create_event"="Sólo se puede crear eventos cuando se tiene internet, verifiqué su conexión.";
+"lb_info_can_not_create_announcement"="Sólo se puede crear notificaciones cuando se tiene internet, verifiqué su conexión.";
+"lb_info_can_not_delete_announcement"="Sólo se pueden eliminar notificaciones cuando se tiene internet, verifiqué su conexión.";
+"lb_info_do_not_have_privilege"="No tienes permisos suficientes para realizar esta acción.";
+
+//<!-- Text Alert -->
+"lb_alert_login"="INICIO DE SESIÓN BIOMETRICO";
+"lb_alert_login_message"="Confirma tus credenciales biometricas para acceder a los recursos de la aplicación";
+
+//<!-- Text No Data -->
+"lb_no_data_onboarding_steps"="No existen pasos que seguir en el onboarding.";
+"lb_no_data_common_area"="Áreas Comunes No Disponibles.";
+"lb_no_reservation_chosen"="Sin Reservación Seleccionada.";
+
+//<!-- Text Error -->
+"lb_error_skipping_onboarding"="Error tratando de saltar onboarding, inténtelo nuevamente.";
+"lb_error_creating_onboarding_process"="Error tratando de guardar el proceso de onboarding.";
+"lb_error_device_not_found"="No se han encontrado dispositivos registrados en el sistema. Intenta nuevamente.";
+"lb_error_invalid_data_qr_code"="Código QR Inválido. Trata con algún código válido.";
+"lb_error_dropdown_empty"="No se ha seleccionado una opción.";
+"lb_error_open_door"="Autenticación no correcta, no tienes acceso a esta zona. Intenta nuevamente.";
+"lb_error_biometrics_authentication_failed"="Credenciales biométricas no encontradas, intente con contraseña.";
+"lb_error_biometrics_authentication_error"="Error intentando con credenciales biométricas, intente con contraseña.";
+"lb_error_status"="Estatus no válido, intenta con otro.";
+"lb_error_attendance"="Error confirmando asistencia de invitación.";
+"lb_error_input_empty"="Campos incompleto(s) y/o vacío(s).";
+"lb_error_encrypt_data"="Error al encriptar la información en el código QR.";
+"lb_error_contract_not_found"="Contracto no fue encontrado.";
+"lb_error_po_not_found"="Orden de compra no fue encontrada.";
+"lb_error_event_not_found"="Evento no fue encontrado.";
+"lb_error_creating_reservation"="Error al crear reservación. Inténtelo nuevamente.";
+"lb_error_creating_event"="Error al crear event. Inténtelo nuevamente.";
+"lb_error_creating_vehicle"="Error al crear vehículo. Inténtelo nuevamente.";
+"lb_error_creating_invitations"="Error al crear invitaciones. Inténtelo nuevamente.";
+"lb_error_retrieving_photo"="Error al obtener imagen. Inténtelo nuevamente.";
+"lb_error_can_not_log_out"="No se pudó cerrar sesión debido aun inconveniente. Inténtelo nuevamente.";
+"lb_error_wrong_otp"="Código incorrecto, verifique este introducido correctamente";
+"lb_error_the_are_are_no_selected_users"="Al menos selección un visitante para continuar.";
+"lb_error_must_complete_all_the_invitations"="Debes completar todas las invitaciones antes seguir.";
+"lb_error_removing_invitation"="Error al intentar eliminar la invitación. Intente nuevamente.";
+"lb_error_canceling_event"="Error al intentar cancelar el evento. Intente nuevamente.";
+"lb_error_downloading_event"="Error al descargar archivo de evento. Intente nuevamente.";
+"lb_error_creating_invitation"="Invitación no fue creada correctamente. Inténtalo nuevamente.";
+"lb_error_creating_announcement"="Notificación no fue creada correctamente. Inténtalo nuevamente.";
+"lb_error_user_not_registered"="Hay usuarios pendientes de registrar, no puede continuar hasta que esten todos registrados.";
+"lb_error_downloading_assets"="Error descargando assets, intentelo nuevamente.";
+"lb_error_updating_data"="Error actualizando su información, intentelo nuevamente.";
+"lb_error_updating_extra_data"="Error actualizando su información extra, intentelo nuevamente.";
+"lb_error_pre_register_user"="Error al pre-registrar el usuario, intentelo nuevamente";
+"lb_error_getting_incoming_announcement"="Error obteniendo las notificaciones  entrastes del servidor, intente nuevamente";
+"lb_error_invalid_data"="Información con formato invalido, revisala e intenta de nuevo.";
+"lb_error_getting_pending_to_validate"="Error obteniendo las eventos por validar del servidor, intente nuevamente";
+"lb_error_deleting_announcement"="Error eliminando notificación del servidor, intente nuevamente";
+"lb_error_time_is_valid"="Tiempo de código aún válido Espere a que se agote el tiempo para solicitar uno nuevamente";
+"lb_error_invalid_code"="Código OTP no válido o incorrecto, Inténtelo nuevamente.";
+"lb_error_sms_read"="Error al obtener el código del mensaje, solicite un mensaje nuevamente";
+"lb_error_email_not_exists"="Nombre de usuario no encontrado en la base de datos, verifique e intente nuevamente";
+"Please Try Again." = "Inténtalo de nuevo.";
+
+//<!-- Empty labels -->
+"lb_email_empty"="Campo de nombre de usuario vacío, ingrese uno para recuperar la contraseña";
+"lb_empty_event_name"="Campo nombre de evento vacío.";
+"lb_empty_visit_purpose"="Campo propisito de la visita vacío.";
+"lb_empty_unit_section"="Campo unidad/sección vacío.";
+"lb_empty_accompanied"="Campo acompañado vacío.";
+"lb_empty_brand"="Campo marca vacío.";
+"lb_empty_sub_brand"="Campo sub-marca vacío.";
+"lb_empty_color"="Campo color vacío.";
+"lb_empty_plates"="Campo placas vacío.";
+"lb_empty_model"="Campo modelo vacío.";
+"lb_empty_serial_number"="Campo número de serie(s/n) vacío.";
+"lb_empty_announcement_title"="Campo título vacío.";
+"lb_empty_announcement_message"="Campo mensaje vacío.";
+"lb_empty_announcement_type"="Campo tipo de notificación no seleccionado.";
+"lb_empty_announcement_scope"="Campo alcance no seleccionado.";
+"lb_empty_no_employees_selected"="Seleccione al menos 1 empleado para continuar.";
+"lb_empty_announcement_other_type"="Campo tipo vacío.";
+
+//<!-- Messages labels -->
+"lb_message_no_reservation"="Sin reservación.";
+"lb_message_get_new_code"="Solicitar nuevamente un código de acceso ";
+"lb_message_confirm_account"="para continuar necesitamos saber algunos datos personales pero antes necesitamos confirmar tu cuenta En cuestión de segundos te llegará un mensaje de texto que se leerá solo";
+"lb_message_enter_new_password"="INGRESE NUEVA CONTRASEÑA PARA CONTINUAR";
+"lb_message_enter_with_biometrics"="TE GUSTARÍA INICIAR SESIÓN CON TU HUELLA Y/O ESCANER FACIAL*?";
+"lb_message_send_via_sms"="ENVIAR SMS AL CELULAR VINCULADO";
+"lb_message_send_via_email"="ENVIAR CÓDIGO AL CORREO VINCULADO";
+"lb_message_sms_comes"="en breves momentos te llegará un mensaje de recuperación para poder ingresar una nueva contraseña";
+"lb_message_email_comes"="verifica en tu correo registrado, debió de haberte llegado un mensaje con un código, por favor introducelo";
+"lb_message_email_comes_2"="sino lo encuentras en tu bandeja de entrada verifica en la sección de SPAM";
+"lb_message_incomplete_code"="Código incompleto, introduce el código completo";
+"lb_message_go_to_invitation"="Confirmación aceptada para la invitación.";
+"lb_message_event_canceled"="Evento cancelado correctamente.";
+"lb_message_i_am_in"="sí, continuar";
+"lb_message_im_not_with_password"="no, con contraseña";
+"lb_message_enter_email"="INGRESE CORREO DEL LA CUENTA A RECUPERAR CONTRASEÑA";
+"lb_message_download_file"="Archivo descargado correctamente.";
+"lb_message_event_downloaded_report"="Reporte descargado correctamente.";
+"lb_message_invitation_removed"="Invitación eliminada correctamente.";
+"lb_message_invitation_already_attendance"="Invitación ya fue atendida";
+"lb_message_company_location"="Ubicación Compañia";
+"lb_message_required_permissions"="Los permisos son necesarios para el funcionamiento correcto de la aplicación Activa todos por favor";
+"lb_message_scan_qr_code"="ESCANEAR CÓDIGO QR";
+"lb_message_success_scan_qr_code"="Código escaneado correctamente";
+"lb_message_camera_error"="Error al iniciarlizar la camara: ";
+"lb_message_invitation"="El invitado ha llegado a la sala de juntas donde se solicito";
+"lb_message_choose_from_contact"="O ELIGE EN BASE A TU LISTA DE CONTACTOS";
+"lb_message_extra_data_employee"="Información extra empleado";
+"lb_message_language_spanish"="Español";
+"lb_message_english_language"="Inglés";
+"lb_message_french_language"="Frances";
+"lb_message_biometric_access"="Usar biometricos para acceder";
+"lb_message_un_link_device"="DESVINCULAR DISPOSITIVO";
+"lb_message_error_response"="Algo salío mal, intentelo nuevamente ó verifique su conexión a internet.";
+"lb_message_error_invalid_format"="Texto no cumple con el formato requerido.";
+"lb_message_error_invalid_option"="Opción no valida.";
+"lb_message_there_are_changes"="Hay cambios, ¿Estás seguro de querer salir sin actualizar los cambios?";
+"lb_message_no_changes"="No existen cambios, realice alguno para volver poder actualizar los datos";
+"lb_message_choose_language"="antes de comenzar seleccione el lenguage por defecto";
+"lb_message_otp_is_alive"="Tiempo de vida del mensaje:";
+"lb_message_lorem_text"="Lorem Ipsum is simply dummy text of the printing and typesetting industry Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum";
+"lb_message_user_exists"="Ya existe el correo/número en la base deseas, son de este usuario, deseas seleccionarlo?";
+"lb_message_user_already_exists"="usuario ya existe";
+"lb_message_enter_no_visitor"="Ingrese el número de invitados permitidos por invitación";
+"lb_message_invite_more_people"="invitar a más personas";
+"lb_message_keep_session_alive"="Mantener la sesión activa";
+"lb_message_skip_onboarding"="omitir onboarding";
+"lb_message_no_go_to_invitation"="Rechazo aceptada para la invitación.";
+"lb_message_input_name_to_filter"="Type here a name to filter";
+"lb_biometric_no_hardware_message"="No hay hardware biométrico Por favor inicie sesión con su usuario y contraseña";
+"lb_biometric_feature_un_available"="El hardware no está disponible Por favor inicie sesión con su usuario y contraseña";
+"lb_biometric_none_enrolled_setting"="Usted no tiene datos biométricos registrados Vaya a ajustes, luego configure cualquier opción para usar esta característica";
+"lb_biometric_error_security"="Se ha descubierto una vulnerabilidad de seguridad y el sensor no está disponible hasta que una actualización de seguridad solucione este problema Por favor inicie sesión con su usuario y contraseña";
+
+//<!-- No data Labels -->
+"lb_no_data_contacts"="No hay contactos que mostrar.";
+"lb_no_data_employees"="No hay empleados que mostrar.";
+"lb_no_data_vehicles"="No hay vehiculos que mostrar.";
+"lb_no_data_invitations"="No hay invitaciones que mostrar.";
+"lb_no_data_event_invitations"="No hay usuarios a invitar.";
+"lb_no_data_incoming_contracts"="No hay contractos entrantes que mostrar.";
+"lb_no_data_record_contracts"="No hay historial de contractos que mostrar.";
+"lb_no_data_incoming_purchase"="No hay ordenes entrantes que mostrar.";
+"lb_no_data_record_purchase"="No hay historial de ordenes que mostrar.";
+"lb_no_data_incoming_events"="No hay eventos entrantes que mostrar.";
+"lb_no_data_events_to_validate"="No hay eventos en proceso de validación que mostrar.";
+"lb_no_data_event_record"="No hay eventos pasados que mostrar.";
+"lb_no_data_announcement"="No hay notificaciones que mostrar.";
+
+//<!-- Status -->
+//<!-- 0-10 USUARIOS -->
+"lb_status_1"="PRE-REGISTRADO";
+"lb_status_2"="CAMBIO DE CONTRASEÑA";
+"lb_status_3"="POR APPROBAR DOCUMENTOS";
+"lb_status_4"="ACTIVO";
+"lb_status_5"="EN VACACIONES";
+"lb_status_6"="IN ACTIVO";
+//<!-- company 11 - 20 -->
+"lb_status_11"="ACTIVO";
+"lb_status_12"="INACTIVO";
+"lb_status_13"="EN CONSTRUCIÓN";
+//<!-- events 31-35 -->
+"lb_status_31"="cancelado";
+"lb_status_32"="en validación";
+"lb_status_33"="aprovado";
+"lb_status_34_value"="rechazado";
+//<!-- invitation  37-39-->
+"lb_status_37"="por atender";
+"lb_status_38"="aceptada";
+"lb_status_39"="rechazada";
+//<!-- contractor  21-25 -->
+"lb_status_21"="finalizado";
+"lb_status_22"="activo";
+"lb_status_23"="cancelado";
+//<!-- provider  26-30 -->
+"lb_status_28"="próxima";
+"lb_status_29"="en curso";
+"lb_status_30"="entregada";
+"lb_status_36"="cancelada";
+
+"lb_title_validated_by"="Validado por";
+"lb_accessibility_gender"="Referencia al sexo del empleado.";
+"lb_accessibility_go_to_detail"="Ver detalles";
+"lb_value_model"="Modelo: ";
+"lb_value_serial_number"="S/N: ";
+"lb_value_color"="Color: ";
+"lb_title_employee_id"="ID del empleado";
+"lb_accessibility_go_back"="Volver al sitio anterior";
+"lb_value_no_employees"=" Empleados";
+"lb_title_vehicle_detail"="información del vehículo";
+"lb_title_serial_number"="s/n";
+"lb_value_app_version"="versión ";

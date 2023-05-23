@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Named colors" minToolsVersion="9.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="CalenderViewController" customModule="iEntry" customModuleProvider="target">
+            <connections>
+                <outlet property="parentCalenderView" destination="8As-2T-89z" id="Xkc-du-3ZE"/>
+                <outlet property="selectDataBtn" destination="2Zs-FH-rQt" id="NJ0-im-t3f"/>
+                <outlet property="topTitle" destination="AkY-aO-bwB" id="cCa-CD-dve"/>
+                <outlet property="view" destination="i5M-Pr-FkT" id="Qih-ig-18O"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Select dates" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AkY-aO-bwB">
+                    <rect key="frame" x="143" y="69" width="107" height="22"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="22" id="wGR-6i-Nca"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="boldSystem" pointSize="18"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="8As-2T-89z">
+                    <rect key="frame" x="20" y="111" width="353" height="597"/>
+                    <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                </view>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Zs-FH-rQt">
+                    <rect key="frame" x="30" y="728" width="333" height="60"/>
+                    <color key="backgroundColor" name="primary"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="60" id="Ajh-6N-Udb"/>
+                    </constraints>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="Select dates">
+                        <color key="titleColor" name="Color"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <integer key="value" value="24"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="selectAction:" destination="-1" eventType="touchUpInside" id="CgA-Mc-dYz"/>
+                    </connections>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="fnl-2z-Ty3"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="2Zs-FH-rQt" firstAttribute="top" secondItem="8As-2T-89z" secondAttribute="bottom" constant="20" id="29Q-zf-mlK"/>
+                <constraint firstItem="AkY-aO-bwB" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="9ka-QB-RO2"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="bottom" secondItem="2Zs-FH-rQt" secondAttribute="bottom" constant="30" id="HD3-uV-4Tb"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="2Zs-FH-rQt" secondAttribute="trailing" constant="30" id="Pto-0f-hLl"/>
+                <constraint firstItem="2Zs-FH-rQt" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="30" id="PxP-x8-IeY"/>
+                <constraint firstItem="8As-2T-89z" firstAttribute="top" secondItem="AkY-aO-bwB" secondAttribute="bottom" constant="20" id="QlC-uE-hTJ"/>
+                <constraint firstItem="8As-2T-89z" firstAttribute="leading" secondItem="fnl-2z-Ty3" secondAttribute="leading" constant="20" id="VQG-Yy-l1x"/>
+                <constraint firstItem="fnl-2z-Ty3" firstAttribute="trailing" secondItem="8As-2T-89z" secondAttribute="trailing" constant="20" id="ap9-eJ-rtS"/>
+                <constraint firstItem="AkY-aO-bwB" firstAttribute="top" secondItem="fnl-2z-Ty3" secondAttribute="top" constant="10" id="clP-Mp-AAJ"/>
+                <constraint firstItem="2Zs-FH-rQt" firstAttribute="centerX" secondItem="i5M-Pr-FkT" secondAttribute="centerX" id="nfa-8b-375"/>
+            </constraints>
+            <point key="canvasLocation" x="116.79389312977099" y="20.422535211267608"/>
+        </view>
+    </objects>
+    <resources>
+        <namedColor name="Color">
+            <color red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <namedColor name="primary">
+            <color red="0.078000001609325409" green="0.43500000238418579" blue="0.38400000333786011" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

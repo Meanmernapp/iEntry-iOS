@@ -1,0 +1,6 @@
+framework module Pods_iEntry {
+  umbrella header "Pods-iEntry-umbrella.h"
+
+  export *
+  module * { export * }
+}

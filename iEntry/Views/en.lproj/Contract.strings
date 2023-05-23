@@ -1,0 +1,321 @@
+
+/* Class = "UILabel"; text = "442-568-89-41"; ObjectID = "09i-nh-Q0a"; */
+"09i-nh-Q0a.text" = "442-568-89-41";
+
+/* Class = "UILabel"; text = "Contratista encargado"; ObjectID = "0bx-mD-YSb"; */
+"0bx-mD-YSb.text" = "Contratista encargado";
+
+/* Class = "UILabel"; text = "ACTIVO"; ObjectID = "1OA-gk-MMl"; */
+"1OA-gk-MMl.text" = "ACTIVO";
+
+/* Class = "UILabel"; text = "$ 23344"; ObjectID = "1a8-Bz-oWe"; */
+"1a8-Bz-oWe.text" = "$ 23344";
+
+/* Class = "UILabel"; text = "$ -698.33"; ObjectID = "1g8-jH-JCs"; */
+"1g8-jH-JCs.text" = "$ -698.33";
+
+/* Class = "UILabel"; text = "Percepciones"; ObjectID = "24r-xY-b74"; */
+"24r-xY-b74.text" = "Percepciones";
+
+/* Class = "UILabel"; text = "Carga frágil"; ObjectID = "2G1-YS-BNf"; */
+"2G1-YS-BNf.text" = "Carga frágil";
+
+/* Class = "UILabel"; text = "N O M I N A S"; ObjectID = "2eE-Gh-qVi"; */
+"2eE-Gh-qVi.text" = "N O M I N A S";
+
+/* Class = "UILabel"; text = "Empresa"; ObjectID = "2eI-kC-HD4"; */
+"2eI-kC-HD4.text" = "Empresa";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "3Ta-kl-rpI"; */
+"3Ta-kl-rpI.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "Producto"; ObjectID = "3n0-rf-cKJ"; */
+"3n0-rf-cKJ.text" = "Producto";
+
+/* Class = "UILabel"; text = "Comidas cafetería"; ObjectID = "41X-Iu-iMa"; */
+"41X-Iu-iMa.text" = "Comidas cafetería";
+
+/* Class = "UILabel"; text = "COMPAÑIA"; ObjectID = "5o4-bV-asW"; */
+"5o4-bV-asW.text" = "COMPAÑIA";
+
+/* Class = "UILabel"; text = "Compañia"; ObjectID = "5vS-Aw-9Lb"; */
+"5vS-Aw-9Lb.text" = "Compañia";
+
+/* Class = "UILabel"; text = "Inicio de contrato"; ObjectID = "60p-XF-bxG"; */
+"60p-XF-bxG.text" = "Inicio de contrato";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "6XR-Zw-dvu"; */
+"6XR-Zw-dvu.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "$ -698.33"; ObjectID = "6b3-gp-2bs"; */
+"6b3-gp-2bs.text" = "$ -698.33";
+
+/* Class = "UILabel"; text = "Compañia"; ObjectID = "6pz-K6-KBS"; */
+"6pz-K6-KBS.text" = "Compañia";
+
+/* Class = "UILabel"; text = "D E T A L L E S"; ObjectID = "6xW-0p-kZd"; */
+"6xW-0p-kZd.text" = "D E T A L L E S";
+
+/* Class = "UILabel"; text = "I N F O R M A C I Ó N"; ObjectID = "6zf-5G-6Xf"; */
+"6zf-5G-6Xf.text" = "I N F O R M A C I Ó N";
+
+/* Class = "UILabel"; text = "26/08/2023 11:30"; ObjectID = "7FK-lM-8Ba"; */
+"7FK-lM-8Ba.text" = "26/08/2023 11:30";
+
+/* Class = "UILabel"; text = "5 cajas de javón"; ObjectID = "9aX-vK-4n2"; */
+"9aX-vK-4n2.text" = "5 cajas de javón";
+
+/* Class = "UILabel"; text = "$ -698.33"; ObjectID = "9b9-yR-4h2"; */
+"9b9-yR-4h2.text" = "$ -698.33";
+
+/* Class = "UILabel"; text = "$ -223.26"; ObjectID = "9cQ-JN-Xyh"; */
+"9cQ-JN-Xyh.text" = "$ -223.26";
+
+/* Class = "UILabel"; text = "Sueldo"; ObjectID = "9uQ-Rh-yDY"; */
+"9uQ-Rh-yDY.text" = "Sueldo";
+
+/* Class = "UILabel"; text = "INFORMACIÓN DEL PROVEEDOR"; ObjectID = "BPr-fN-OA0"; */
+"BPr-fN-OA0.text" = "INFORMACIÓN DEL PROVEEDOR";
+
+/* Class = "UILabel"; text = "$ -12,236.25"; ObjectID = "CHH-yI-PvG"; */
+"CHH-yI-PvG.text" = "$ -12,236.25";
+
+/* Class = "UILabel"; text = "ACTIVO"; ObjectID = "CSX-3Y-3ar"; */
+"CSX-3Y-3ar.text" = "ACTIVO";
+
+/* Class = "UILabel"; text = "P E R C E P C I O N E S"; ObjectID = "Cih-yO-LJ8"; */
+"Cih-yO-LJ8.text" = "P E R C E P C I O N E S";
+
+/* Class = "UILabel"; text = "CANCELADO"; ObjectID = "CsO-YS-Ety"; */
+"CsO-YS-Ety.text" = "CANCELADO";
+
+/* Class = "UILabel"; text = "Fin de contrato"; ObjectID = "ECK-nh-cB5"; */
+"ECK-nh-cB5.text" = "Fin de contrato";
+
+/* Class = "UILabel"; text = "CREAR CONTRATO"; ObjectID = "F3p-m3-dbh"; */
+"F3p-m3-dbh.text" = "CREAR CONTRATO";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "FPL-mr-thB"; */
+"FPL-mr-thB.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "Recibido por"; ObjectID = "FxB-mg-eEy"; */
+"FxB-mg-eEy.text" = "Recibido por";
+
+/* Class = "UILabel"; text = "P E R C E P C I O N E S"; ObjectID = "GeO-qV-l9Q"; */
+"GeO-qV-l9Q.text" = "P E R C E P C I O N E S";
+
+/* Class = "UILabel"; text = "Descripción"; ObjectID = "KDq-N4-zi1"; */
+"KDq-N4-zi1.text" = "Descripción";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "NPk-k2-WHQ"; */
+"NPk-k2-WHQ.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "IBL Corporate"; ObjectID = "NT8-Lx-djq"; */
+"NT8-Lx-djq.text" = "IBL Corporate";
+
+/* Class = "UILabel"; text = "Compañia"; ObjectID = "OQI-aS-yit"; */
+"OQI-aS-yit.text" = "Compañia";
+
+/* Class = "UILabel"; text = "IBL Corporate"; ObjectID = "OUq-aW-ZPe"; */
+"OUq-aW-ZPe.text" = "IBL Corporate";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac Mexico"; ObjectID = "OnX-cT-X6p"; */
+"OnX-cT-X6p.text" = "Grupo Tepeyac Mexico";
+
+/* Class = "UILabel"; text = "NÚMERO"; ObjectID = "PDz-tZ-6c1"; */
+"PDz-tZ-6c1.text" = "NÚMERO";
+
+/* Class = "UILabel"; text = "A C T U A L I Z A R C O N T R A T O"; ObjectID = "QLt-mD-Tnr"; */
+"QLt-mD-Tnr.text" = "A C T U A L I Z A R C O N T R A T O";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "Qja-W8-EKm"; */
+"Qja-W8-EKm.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "Vehículo"; ObjectID = "Qrg-jB-SsH"; */
+"Qrg-jB-SsH.text" = "Vehículo";
+
+/* Class = "UILabel"; text = "IBL | Inteligence Bereau Laboratory"; ObjectID = "QvX-P2-i2d"; */
+"QvX-P2-i2d.text" = "IBL | Inteligence Bereau Laboratory";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "RLM-0i-kgs"; */
+"RLM-0i-kgs.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "29/08/2021"; ObjectID = "Twh-bW-Gj5"; */
+"Twh-bW-Gj5.text" = "29/08/2021";
+
+/* Class = "UILabel"; text = "Fin Contrato"; ObjectID = "U0b-i9-KDs"; */
+"U0b-i9-KDs.text" = "Fin Contrato";
+
+/* Class = "UILabel"; text = "Prestamo"; ObjectID = "UKC-sX-Xo9"; */
+"UKC-sX-Xo9.text" = "Prestamo";
+
+/* Class = "UILabel"; text = "12 / 43"; ObjectID = "UUV-st-IqN"; */
+"UUV-st-IqN.text" = "12 / 43";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "UV4-7x-ZF8"; */
+"UV4-7x-ZF8.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "Empleado"; ObjectID = "Vhp-Po-5xm"; */
+"Vhp-Po-5xm.text" = "Empleado";
+
+/* Class = "UILabel"; text = "$ -698.33"; ObjectID = "W4i-Ap-En3"; */
+"W4i-Ap-En3.text" = "$ -698.33";
+
+/* Class = "UILabel"; text = "D E T A L L E S"; ObjectID = "XAF-eB-Vrz"; */
+"XAF-eB-Vrz.text" = "D E T A L L E S";
+
+/* Class = "UILabel"; text = "Compañia"; ObjectID = "Ycn-Xg-Ikf"; */
+"Ycn-Xg-Ikf.text" = "Compañia";
+
+/* Class = "UILabel"; text = "Deducciones"; ObjectID = "YpI-PF-0Dg"; */
+"YpI-PF-0Dg.text" = "Deducciones";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "YzP-OZ-pEv"; */
+"YzP-OZ-pEv.text" = "4";
+
+/* Class = "UILabel"; text = "C R E A R C O N T R A C T O"; ObjectID = "ZYf-lN-RjE"; */
+"ZYf-lN-RjE.text" = "C R E A R C O N T R A C T O";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "a4U-aP-hvx"; */
+"a4U-aP-hvx.text" = "Total";
+
+/* Class = "UILabel"; text = "CORREO"; ObjectID = "a5V-l3-0oD"; */
+"a5V-l3-0oD.text" = "CORREO";
+
+/* Class = "UILabel"; text = "Fecha de entrega"; ObjectID = "b9n-3o-ZvW"; */
+"b9n-3o-ZvW.text" = "Fecha de entrega";
+
+/* Class = "UILabel"; text = "$ 23344"; ObjectID = "bOG-e2-xoG"; */
+"bOG-e2-xoG.text" = "$ 23344";
+
+/* Class = "UILabel"; text = "ACTIVO"; ObjectID = "bqA-hd-San"; */
+"bqA-hd-San.text" = "ACTIVO";
+
+/* Class = "UILabel"; text = "No. vehículos"; ObjectID = "cFj-M0-XkL"; */
+"cFj-M0-XkL.text" = "No. vehículos";
+
+/* Class = "UILabel"; text = "Empleado"; ObjectID = "cx9-LO-Q5e"; */
+"cx9-LO-Q5e.text" = "Empleado";
+
+/* Class = "UILabel"; text = "25/05/2021"; ObjectID = "da8-lF-5V6"; */
+"da8-lF-5V6.text" = "25/05/2021";
+
+/* Class = "UILabel"; text = "GTM | Servicios Especializados Agropecuarios"; ObjectID = "eUs-gN-EWZ"; */
+"eUs-gN-EWZ.text" = "GTM | Servicios Especializados Agropecuarios";
+
+/* Class = "UILabel"; text = "Contrato #102"; ObjectID = "flp-Qp-ZVC"; */
+"flp-Qp-ZVC.text" = "Contrato #102";
+
+/* Class = "UILabel"; text = "Periodo"; ObjectID = "g7T-OH-pHl"; */
+"g7T-OH-pHl.text" = "Periodo";
+
+/* Class = "UILabel"; text = "Contrato #102"; ObjectID = "hD8-fP-I8l"; */
+"hD8-fP-I8l.text" = "Contrato #102";
+
+/* Class = "UILabel"; text = "INFORMACIÓN DE ENTREGA"; ObjectID = "hMY-Ew-wAL"; */
+"hMY-Ew-wAL.text" = "INFORMACIÓN DE ENTREGA";
+
+/* Class = "UILabel"; text = "CANCELADO"; ObjectID = "hf9-GZ-SAp"; */
+"hf9-GZ-SAp.text" = "CANCELADO";
+
+/* Class = "UILabel"; text = "A G R E G A R                          C O N T R A T I S T A"; ObjectID = "i6f-8M-NmH"; */
+"i6f-8M-NmH.text" = "A G R E G A R                          C O N T R A T I S T A";
+
+/* Class = "UILabel"; text = "D E T A L L E S"; ObjectID = "iLt-HI-Mh4"; */
+"iLt-HI-Mh4.text" = "D E T A L L E S";
+
+/* Class = "UILabel"; text = "A G R E G A R                          C O N T R A T I S T A"; ObjectID = "iQv-gi-has"; */
+"iQv-gi-has.text" = "A G R E G A R                          C O N T R A T I S T A";
+
+/* Class = "UILabel"; text = "Bono dominical"; ObjectID = "j0j-3P-3U7"; */
+"j0j-3P-3U7.text" = "Bono dominical";
+
+/* Class = "UITextField"; placeholder = "Escribe no celular / email para invitar"; ObjectID = "jYs-MM-IHB"; */
+"jYs-MM-IHB.placeholder" = "Escribe no celular / email para invitar";
+
+/* Class = "UILabel"; text = "Sueldo"; ObjectID = "jlU-Gc-UQM"; */
+"jlU-Gc-UQM.text" = "Sueldo";
+
+/* Class = "UILabel"; text = "DESCARGAR RECIBO"; ObjectID = "kPc-3x-Nln"; */
+"kPc-3x-Nln.text" = "DESCARGAR RECIBO";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "kpq-ku-1eT"; */
+"kpq-ku-1eT.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "aitzel.2125@gmail.com"; ObjectID = "lTz-IP-gvW"; */
+"lTz-IP-gvW.text" = "aitzel.2125@gmail.com";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "llf-TB-fbn"; */
+"llf-TB-fbn.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "IMSS"; ObjectID = "lvU-S2-wUO"; */
+"lvU-S2-wUO.text" = "IMSS";
+
+/* Class = "UILabel"; text = "Inicio Contrato"; ObjectID = "m00-zv-7WH"; */
+"m00-zv-7WH.text" = "Inicio Contrato";
+
+/* Class = "UILabel"; text = "Contrato #102"; ObjectID = "maY-PU-4sv"; */
+"maY-PU-4sv.text" = "Contrato #102";
+
+/* Class = "UILabel"; text = "01-Oct-2021"; ObjectID = "nGh-5z-v7h"; */
+"nGh-5z-v7h.text" = "01-Oct-2021";
+
+/* Class = "UILabel"; text = "Luis Enrique Cornejo Arreola"; ObjectID = "nfp-Vn-Vf1"; */
+"nfp-Vn-Vf1.text" = "Luis Enrique Cornejo Arreola";
+
+/* Class = "UILabel"; text = "KIA Rio 2018 | ULX-562-8C"; ObjectID = "oHt-zQ-Fyf"; */
+"oHt-zQ-Fyf.text" = "KIA Rio 2018 | ULX-562-8C";
+
+/* Class = "UILabel"; text = "01/Jul/2021 - 16/Jul/2021"; ObjectID = "oWf-pm-0yT"; */
+"oWf-pm-0yT.text" = "01/Jul/2021 - 16/Jul/2021";
+
+/* Class = "UILabel"; text = "ISR mes"; ObjectID = "ooi-QQ-ePf"; */
+"ooi-QQ-ePf.text" = "ISR mes";
+
+/* Class = "UILabel"; text = "29/08/2021"; ObjectID = "oyP-HE-P1C"; */
+"oyP-HE-P1C.text" = "29/08/2021";
+
+/* Class = "UILabel"; text = "$ 23344"; ObjectID = "p3l-NJ-mQi"; */
+"p3l-NJ-mQi.text" = "$ 23344";
+
+/* Class = "UILabel"; text = "26/08/2023 11:30"; ObjectID = "qtn-lE-h9N"; */
+"qtn-lE-h9N.text" = "26/08/2023 11:30";
+
+/* Class = "UILabel"; text = "26/08/2023"; ObjectID = "rYk-gn-3tF"; */
+"rYk-gn-3tF.text" = "26/08/2023";
+
+/* Class = "UILabel"; text = "Grupo Tepeyac Mexico"; ObjectID = "sRo-c9-2Rf"; */
+"sRo-c9-2Rf.text" = "Grupo Tepeyac Mexico";
+
+/* Class = "UILabel"; text = "IBL | Intelligence Bereau Laboratory"; ObjectID = "tHx-rk-8uC"; */
+"tHx-rk-8uC.text" = "IBL | Intelligence Bereau Laboratory";
+
+/* Class = "UILabel"; text = "ENCARGADO"; ObjectID = "u2J-II-zV7"; */
+"u2J-II-zV7.text" = "ENCARGADO";
+
+/* Class = "UILabel"; text = "AGREGAR"; ObjectID = "uA9-Ay-6z5"; */
+"uA9-Ay-6z5.text" = "AGREGAR";
+
+/* Class = "UILabel"; text = "Empresa | IBL"; ObjectID = "uFv-FV-htn"; */
+"uFv-FV-htn.text" = "Empresa | IBL";
+
+/* Class = "UILabel"; text = "Compañia"; ObjectID = "vSF-Jk-XtC"; */
+"vSF-Jk-XtC.text" = "Compañia";
+
+/* Class = "UILabel"; text = "ACTIVO"; ObjectID = "vqY-fa-mpV"; */
+"vqY-fa-mpV.text" = "ACTIVO";
+
+/* Class = "UILabel"; text = "ACTUALIZAR"; ObjectID = "wvn-XR-44P"; */
+"wvn-XR-44P.text" = "ACTUALIZAR";
+
+/* Class = "UILabel"; text = "INFORMACIÓN DEL PROVEEDOR"; ObjectID = "xZS-ds-Yda"; */
+"xZS-ds-Yda.text" = "INFORMACIÓN DEL PROVEEDOR";
+
+/* Class = "UILabel"; text = "No. de empleados"; ObjectID = "yKA-Gn-mqI"; */
+"yKA-Gn-mqI.text" = "No. de empleados";
+
+/* Class = "UILabel"; text = "$ -698.33"; ObjectID = "yLW-4A-uSY"; */
+"yLW-4A-uSY.text" = "$ -698.33";
+
+/* Class = "UILabel"; text = "GENERAR QR"; ObjectID = "yRs-If-YbY"; */
+"yRs-If-YbY.text" = "GENERAR QR";

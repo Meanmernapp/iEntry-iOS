@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NewNotificationVC.uploadImage(notificationId:):NewNotificationVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "img.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NotificationVC.tableView(_:cellForRowAt:):NotificationVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notificationdata?.filter{$0.notificationType?.id == 24}">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Company.init(from:):LoginModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "EmployeeInformationViewController.viewDidLoad():EmployeeInformationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ShareData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in NewNotificationVC.createNotificationApi():NewNotificationVC.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "file:///Users/apple/Library/Developer/CoreSimulator/Devices/B20CBC20-7C9F-4FB7-8309-6DD8DAF07972/data/Containers/Data/Application/AC70AA3E-85D9-46DE-B848-480096E149A3/tmp/com.ibl.ientrydeveloper-Inbox/Event3.pdf">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

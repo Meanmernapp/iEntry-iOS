@@ -1,0 +1,132 @@
+
+/* Class = "UILabel"; text = "un breves momentos te llegará un mensaje de recuperación para poder ingresar una nueva contraseña."; ObjectID = "0FV-jL-ggv"; */
+"0FV-jL-ggv.text" = "un breves momentos te llegará un mensaje de recuperación para poder ingresar una nueva contraseña.";
+
+/* Class = "UILabel"; text = "BIENVENIDO !!! Luis Enrique Cornejo"; ObjectID = "0KS-Ni-vAf"; */
+"0KS-Ni-vAf.text" = "BIENVENIDO !!! Luis Enrique Cornejo";
+
+/* Class = "UILabel"; text = "para continuar necesitamos saber algunos datos personales pero antes necesitamos confirmar tu cuenta. En cuestión de segundos te llegará un mensaje de texto que se leerá solo."; ObjectID = "2Lt-Sn-PBH"; */
+"2Lt-Sn-PBH.text" = "para continuar necesitamos saber algunos datos personales pero antes necesitamos confirmar tu cuenta. En cuestión de segundos te llegará un mensaje de texto que se leerá solo.";
+
+/* Class = "UILabel"; text = "Time alive for this message:"; ObjectID = "2ua-Cl-tM1"; */
+"2ua-Cl-tM1.text" = "Time alive for this message:";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "3Gf-QB-iiT"; */
+"3Gf-QB-iiT.placeholder" = "PASSWORD";
+
+/* Class = "UILabel"; text = "¿Has olvidado tu"; ObjectID = "63v-rJ-LVB"; */
+"63v-rJ-LVB.text" = "¿Has olvidado tu";
+
+/* Class = "UILabel"; text = "INGRESE CONTRASEÑA NUEVA"; ObjectID = "8jX-5R-P4l"; */
+"8jX-5R-P4l.text" = "INGRESE CONTRASEÑA NUEVA";
+
+/* Class = "UILabel"; text = "58,s"; ObjectID = "Gh9-zu-eNH"; */
+"Gh9-zu-eNH.text" = "58,s";
+
+/* Class = "UILabel"; text = "Biometric credentials"; ObjectID = "GlR-7x-vej"; */
+"GlR-7x-vej.text" = "Biometric credentials";
+
+/* Class = "UIButton"; normalTitle = "no, con contraseña"; ObjectID = "Gqg-Tp-JVy"; */
+"Gqg-Tp-JVy.normalTitle" = "no, con contraseña";
+
+/* Class = "UILabel"; text = "INGRESE NUEVA CONTRASEÑA PARA CONTINUAR"; ObjectID = "H2U-T5-kGv"; */
+"H2U-T5-kGv.text" = "INGRESE NUEVA CONTRASEÑA PARA CONTINUAR";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "HR2-6a-zNC"; */
+"HR2-6a-zNC.normalTitle" = "ENTRAR";
+
+/* Class = "UIButton"; normalTitle = "SÍ, CONTINUAR"; ObjectID = "IY5-1k-SDa"; */
+"IY5-1k-SDa.normalTitle" = "SÍ, CONTINUAR";
+
+/* Class = "UIButton"; normalTitle = "contraseña?"; ObjectID = "N9k-oc-udV"; */
+"N9k-oc-udV.normalTitle" = "contraseña?";
+
+/* Class = "UILabel"; text = "58,s"; ObjectID = "O64-GM-5x6"; */
+"O64-GM-5x6.text" = "58,s";
+
+/* Class = "UILabel"; text = "¿Has olvidado tu"; ObjectID = "OaQ-aK-XVX"; */
+"OaQ-aK-XVX.text" = "¿Has olvidado tu";
+
+/* Class = "UILabel"; text = "ENVIAR SMS AL CELULAR VINCULADO ••••••••47"; ObjectID = "OrO-hd-RKl"; */
+"OrO-hd-RKl.text" = "ENVIAR SMS AL CELULAR VINCULADO ••••••••47";
+
+/* Class = "UIButton"; normalTitle = "ACEPTAR"; ObjectID = "S5z-ZX-XPL"; */
+"S5z-ZX-XPL.normalTitle" = "ACEPTAR";
+
+/* Class = "UITextField"; placeholder = "EMAIL"; ObjectID = "SA6-ST-bY3"; */
+"SA6-ST-bY3.placeholder" = "EMAIL";
+
+/* Class = "UIButton"; normalTitle = "INICIAR SESIÓN"; ObjectID = "Tp0-ET-u2a"; */
+"Tp0-ET-u2a.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UILabel"; text = "ENVIAR CÓDIGO AL CORREO DE LA CUENTA"; ObjectID = "VCo-T6-aAD"; */
+"VCo-T6-aAD.text" = "ENVIAR CÓDIGO AL CORREO DE LA CUENTA";
+
+/* Class = "UITextField"; placeholder = "PASSWORD"; ObjectID = "WeC-6G-ZPj"; */
+"WeC-6G-ZPj.placeholder" = "PASSWORD";
+
+/* Class = "UILabel"; text = "SELECCIONA LA COMPAÑIA:"; ObjectID = "bIM-Ce-UL8"; */
+"bIM-Ce-UL8.text" = "SELECCIONA LA COMPAÑIA:";
+
+/* Class = "UIButton"; normalTitle = "ENTRAR"; ObjectID = "cKq-wy-H1x"; */
+"cKq-wy-H1x.normalTitle" = "ENTRAR";
+
+/* Class = "UILabel"; text = "SELECCIONE EL MÉTODO CON EL CUAL DESEA RECUPERAR LA CONTRASEÑA:"; ObjectID = "dGP-uA-fe4"; */
+"dGP-uA-fe4.text" = "SELECCIONE EL MÉTODO CON EL CUAL DESEA RECUPERAR LA CONTRASEÑA:";
+
+/* Class = "UITextField"; placeholder = "CONTRASEÑA"; ObjectID = "fUt-Sp-L59"; */
+"fUt-Sp-L59.placeholder" = "CONTRASEÑA";
+
+/* Class = "UILabel"; text = "INGRESE CORREO DEL LA CUENTA A RECUPERAR CONTRASEÑA"; ObjectID = "gHd-5O-IVa"; */
+"gHd-5O-IVa.text" = "INGRESE CORREO DEL LA CUENTA A RECUPERAR CONTRASEÑA";
+
+/* Class = "UILabel"; text = "Iconerejo@ibl.mx"; ObjectID = "gK8-GF-qtp"; */
+"gK8-GF-qtp.text" = "Iconerejo@ibl.mx";
+
+/* Class = "UITextField"; placeholder = "NOMBRE DE USUARIO"; ObjectID = "gxS-gL-JeW"; */
+"gxS-gL-JeW.placeholder" = "NOMBRE DE USUARIO";
+
+/* Class = "UILabel"; text = "TE GUSTARÍA INICIAR SESIÓN CON TU HUELLA Y/O ESCANER FACIAL*?"; ObjectID = "h4a-oh-sjX"; */
+"h4a-oh-sjX.text" = "TE GUSTARÍA INICIAR SESIÓN CON TU HUELLA Y/O ESCANER FACIAL*?";
+
+/* Class = "UIButton"; normalTitle = "contraseña?"; ObjectID = "hAV-6t-nLi"; */
+"hAV-6t-nLi.normalTitle" = "contraseña?";
+
+/* Class = "UITextField"; placeholder = "NOMBRE DE USUARIO"; ObjectID = "hAz-F7-sz8"; */
+"hAz-F7-sz8.placeholder" = "NOMBRE DE USUARIO";
+
+/* Class = "UILabel"; text = "Tiempo de vida del mensaje:"; ObjectID = "hFu-sz-JnP"; */
+"hFu-sz-JnP.text" = "Tiempo de vida del mensaje:";
+
+/* Class = "UILabel"; text = "Time alive for this message:"; ObjectID = "hXj-RQ-RHN"; */
+"hXj-RQ-RHN.text" = "Time alive for this message:";
+
+/* Class = "UIButton"; normalTitle = "INICIAR SESIÓN"; ObjectID = "jrk-nd-2QN"; */
+"jrk-nd-2QN.normalTitle" = "INICIAR SESIÓN";
+
+/* Class = "UILabel"; text = "Log in using yout biometric credential"; ObjectID = "kDe-31-cU1"; */
+"kDe-31-cU1.text" = "Log in using yout biometric credential";
+
+/* Class = "UILabel"; text = "RECUPERACIÓN DE CONTRASEÑA"; ObjectID = "kMg-5H-snR"; */
+"kMg-5H-snR.text" = "RECUPERACIÓN DE CONTRASEÑA";
+
+/* Class = "UILabel"; text = "Touch the fingerprint sensor"; ObjectID = "kUr-e1-nia"; */
+"kUr-e1-nia.text" = "Touch the fingerprint sensor";
+
+/* Class = "UIButton"; normalTitle = "Use password App"; ObjectID = "m8y-1r-GUk"; */
+"m8y-1r-GUk.normalTitle" = "Use password App";
+
+/* Class = "UILabel"; text = "RECUPERACIÓN DE CONTRASEÑA"; ObjectID = "mIn-eB-83S"; */
+"mIn-eB-83S.text" = "RECUPERACIÓN DE CONTRASEÑA";
+
+/* Class = "UIButton"; normalTitle = "CANCELAR"; ObjectID = "qBk-zb-Ah3"; */
+"qBk-zb-Ah3.normalTitle" = "CANCELAR";
+
+/* Class = "UILabel"; text = "Hola"; ObjectID = "qC1-bq-1HJ"; */
+"qC1-bq-1HJ.text" = "Hola";
+
+/* Class = "UITextField"; placeholder = "CONTRASEÑA"; ObjectID = "r8c-wV-bOc"; */
+"r8c-wV-bOc.placeholder" = "CONTRASEÑA";
+
+/* Class = "UILabel"; text = "*Sujeto a disponibilidad de hardware"; ObjectID = "ugx-2m-heP"; */
+"ugx-2m-heP.text" = "*Sujeto a disponibilidad de hardware";

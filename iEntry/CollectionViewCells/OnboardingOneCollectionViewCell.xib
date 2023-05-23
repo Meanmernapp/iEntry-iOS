@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Montserrat-Regular.ttf">
+            <string>Montserrat-Regular</string>
+        </array>
+        <array key="Montserrat-SemiBold.ttf">
+            <string>Montserrat-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="OnboardingOneCollectionViewCell" customModule="iEntry" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="379" height="776"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="379" height="776"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="62T-vK-ccS">
+                        <rect key="frame" x="0.0" y="0.0" width="379" height="776"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kQ2-sG-fID">
+                                <rect key="frame" x="0.0" y="0.0" width="359" height="700"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="752" text="¡BIENVENIDO A IBL!" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SV4-DB-7Hl">
+                                        <rect key="frame" x="10" y="10" width="339" height="22"/>
+                                        <fontDescription key="fontDescription" name="Montserrat-SemiBold" family="Montserrat" pointSize="18"/>
+                                        <color key="textColor" red="0.090196078430000007" green="0.54117647059999996" blue="0.4823529412" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="LUIS CORNEJO" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R9u-bS-irK">
+                                        <rect key="frame" x="10" y="42" width="339" height="32"/>
+                                        <fontDescription key="fontDescription" name="Montserrat-SemiBold" family="Montserrat" pointSize="26"/>
+                                        <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="Ukb-oD-6V7">
+                                        <rect key="frame" x="10" y="94" width="339" height="85.5"/>
+                                        <string key="text">Gracias por ser parte de la familia IBL. Te compartimos nuestra misión, visión, valores de nuestra empresa para que los conozcas. A continuación se te mostrará tu proceso de bienvenida</string>
+                                        <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="14"/>
+                                        <color key="textColor" red="0.71756780149999999" green="0.71769279239999995" blue="0.71755987409999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="752" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="goH-el-Ced">
+                                        <rect key="frame" x="10" y="236.5" width="339" height="290.5"/>
+                                        <string key="text">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+                                        <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="14"/>
+                                        <color key="textColor" red="0.71756780149999999" green="0.71769279239999995" blue="0.71755987409999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="VISIÓN" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="2U3-45-cjj">
+                                        <rect key="frame" x="10" y="547" width="339" height="22"/>
+                                        <fontDescription key="fontDescription" name="Montserrat-SemiBold" family="Montserrat" pointSize="18"/>
+                                        <color key="textColor" red="0.090196078430000007" green="0.54117647059999996" blue="0.4823529412" alpha="0.50156785130000003" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="xSO-zG-Tfx">
+                                        <rect key="frame" x="10" y="579" width="339" height="101"/>
+                                        <string key="text">Lorem Ipsum es simplemente el texto de relleno de las imprentas y archivos de texto. Lorem Ipsum ha sido el texto de relleno estándar de las industrias desde el año 1500, cuando un impresor (N. del T. persona que se dedica a la imprenta) desconocido usó una galería de textos y los mezcló de tal manera que logró hacer un libro de textos especimen. No sólo sobrevivió 500 años, sino que tambien ingresó como texto de relleno en documentos electrónicos, quedando esencialmente igual al original. Fue popularizado en los 60s con la creación de las hojas "Letraset", las cuales contenian pasajes de Lorem Ipsum, y más recientemente con software de autoedición, como por ejemplo Aldus PageMaker, el cual incluye versiones de Lorem Ipsum.</string>
+                                        <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="14"/>
+                                        <color key="textColor" red="0.71756780149999999" green="0.71769279239999995" blue="0.71755987409999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="753" text="MISIÓN" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="neI-BV-KkU">
+                                        <rect key="frame" x="10" y="199.5" width="339" height="22"/>
+                                        <fontDescription key="fontDescription" name="Montserrat-SemiBold" family="Montserrat" pointSize="18"/>
+                                        <color key="textColor" red="0.090196078430000007" green="0.54117647059999996" blue="0.4823529412" alpha="0.50156785130000003" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstItem="SV4-DB-7Hl" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="1Gn-6q-gFn"/>
+                                    <constraint firstAttribute="trailing" secondItem="Ukb-oD-6V7" secondAttribute="trailing" constant="10" id="1sH-KL-VUy"/>
+                                    <constraint firstItem="SV4-DB-7Hl" firstAttribute="top" secondItem="kQ2-sG-fID" secondAttribute="top" constant="10" id="5m7-zS-nai"/>
+                                    <constraint firstAttribute="trailing" secondItem="goH-el-Ced" secondAttribute="trailing" constant="10" id="80M-KR-62E"/>
+                                    <constraint firstItem="R9u-bS-irK" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="EK1-iV-Oyv"/>
+                                    <constraint firstItem="R9u-bS-irK" firstAttribute="top" secondItem="SV4-DB-7Hl" secondAttribute="bottom" constant="10" id="Hoh-MT-X4X"/>
+                                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="xSO-zG-Tfx" secondAttribute="bottom" constant="20" id="HxA-v2-dn8"/>
+                                    <constraint firstAttribute="trailing" secondItem="SV4-DB-7Hl" secondAttribute="trailing" constant="10" id="Jyp-Xe-GZZ"/>
+                                    <constraint firstAttribute="trailing" secondItem="2U3-45-cjj" secondAttribute="trailing" constant="10" id="KbJ-eT-eJB"/>
+                                    <constraint firstAttribute="trailing" secondItem="xSO-zG-Tfx" secondAttribute="trailing" constant="10" id="OVT-Cy-gfd"/>
+                                    <constraint firstItem="goH-el-Ced" firstAttribute="top" secondItem="neI-BV-KkU" secondAttribute="bottom" constant="15" id="UZz-pQ-SJD"/>
+                                    <constraint firstItem="xSO-zG-Tfx" firstAttribute="top" secondItem="2U3-45-cjj" secondAttribute="bottom" constant="10" id="ae5-Dq-BFn"/>
+                                    <constraint firstItem="2U3-45-cjj" firstAttribute="top" secondItem="goH-el-Ced" secondAttribute="bottom" constant="20" id="as4-Gx-1QF"/>
+                                    <constraint firstItem="Ukb-oD-6V7" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="fDZ-Gt-BkN"/>
+                                    <constraint firstAttribute="trailing" secondItem="R9u-bS-irK" secondAttribute="trailing" constant="10" id="g2T-Ih-1Qy"/>
+                                    <constraint firstItem="neI-BV-KkU" firstAttribute="top" secondItem="Ukb-oD-6V7" secondAttribute="bottom" constant="20" id="gZB-ys-ny5"/>
+                                    <constraint firstAttribute="trailing" secondItem="neI-BV-KkU" secondAttribute="trailing" constant="10" id="i2P-Ub-Inn"/>
+                                    <constraint firstItem="neI-BV-KkU" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="ihe-pp-GqP"/>
+                                    <constraint firstItem="2U3-45-cjj" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="kjr-Dd-NeZ"/>
+                                    <constraint firstItem="Ukb-oD-6V7" firstAttribute="top" secondItem="R9u-bS-irK" secondAttribute="bottom" constant="20" id="muI-x4-Ehl"/>
+                                    <constraint firstAttribute="height" constant="700" id="nzI-H4-L9r"/>
+                                    <constraint firstItem="goH-el-Ced" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="pCx-RL-emU"/>
+                                    <constraint firstItem="xSO-zG-Tfx" firstAttribute="leading" secondItem="kQ2-sG-fID" secondAttribute="leading" constant="10" id="wU5-7k-R9S"/>
+                                </constraints>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstItem="kQ2-sG-fID" firstAttribute="bottom" secondItem="bJH-vW-pMX" secondAttribute="bottom" id="1ZF-jG-KJ7"/>
+                            <constraint firstItem="kQ2-sG-fID" firstAttribute="trailing" secondItem="bJH-vW-pMX" secondAttribute="trailing" id="HZ1-QD-weg"/>
+                            <constraint firstItem="kQ2-sG-fID" firstAttribute="top" secondItem="bJH-vW-pMX" secondAttribute="top" id="Qid-pY-zHo"/>
+                            <constraint firstItem="kQ2-sG-fID" firstAttribute="leading" secondItem="bJH-vW-pMX" secondAttribute="leading" id="fGT-HJ-YHM"/>
+                            <constraint firstItem="kQ2-sG-fID" firstAttribute="width" secondItem="6Zo-sF-HvX" secondAttribute="width" multiplier="0.94723" id="vJA-GG-opa"/>
+                        </constraints>
+                        <viewLayoutGuide key="contentLayoutGuide" id="bJH-vW-pMX"/>
+                        <viewLayoutGuide key="frameLayoutGuide" id="6Zo-sF-HvX"/>
+                    </scrollView>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="62T-vK-ccS" secondAttribute="bottom" id="AWQ-5p-BiT"/>
+                <constraint firstAttribute="trailing" secondItem="62T-vK-ccS" secondAttribute="trailing" id="HYU-2Y-rbF"/>
+                <constraint firstItem="62T-vK-ccS" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="N3e-vi-d2t"/>
+                <constraint firstItem="62T-vK-ccS" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="iDC-9b-4Pi"/>
+            </constraints>
+            <size key="customSize" width="379" height="776"/>
+            <connections>
+                <outlet property="firstDescription" destination="Ukb-oD-6V7" id="gm5-Ze-QKt"/>
+                <outlet property="missionLbl" destination="goH-el-Ced" id="BIK-89-FGD"/>
+                <outlet property="missionTitle" destination="neI-BV-KkU" id="wW4-az-xcH"/>
+                <outlet property="nameLbl" destination="R9u-bS-irK" id="Pp4-8G-oDC"/>
+                <outlet property="scrollView" destination="62T-vK-ccS" id="alF-5w-L4Y"/>
+                <outlet property="titleLbl" destination="SV4-DB-7Hl" id="Fdz-jt-0Xw"/>
+                <outlet property="visionLbl" destination="xSO-zG-Tfx" id="moO-O9-L30"/>
+                <outlet property="visionTitle" destination="2U3-45-cjj" id="bQY-qm-up6"/>
+            </connections>
+            <point key="canvasLocation" x="294.92753623188406" y="-45.535714285714285"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

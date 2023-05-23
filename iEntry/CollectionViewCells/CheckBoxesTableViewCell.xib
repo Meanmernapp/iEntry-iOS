@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Montserrat-Regular.ttf">
+            <string>Montserrat-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="141" id="KGk-i7-Jjw" customClass="CheckBoxesTableViewCell" customModule="iEntry" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="394" height="141"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="394" height="141"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Y4y-QB-lq1">
+                        <rect key="frame" x="10" y="0.0" width="374" height="126"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="bQh-RQ-BcG">
+                                <rect key="frame" x="339" y="50.5" width="25" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="gbc-XN-EZm"/>
+                                    <constraint firstAttribute="width" constant="25" id="vYD-me-TtQ"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="selected" image="ic-check-2"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" red="0.43921568630000002" green="0.43924486639999999" blue="0.43915987010000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                                <connections>
+                                    <action selector="checkButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="a9Q-PI-rZE"/>
+                                </connections>
+                            </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Lorem Ipsum is simply dummy text of the printing and typesetting industry." textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ivd-dV-fPu">
+                                <rect key="frame" x="10" y="15" width="309" height="96"/>
+                                <fontDescription key="fontDescription" name="Montserrat-Regular" family="Montserrat" pointSize="14"/>
+                                <color key="textColor" red="0.43916493649999999" green="0.43924486639999999" blue="0.43915987010000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="ivd-dV-fPu" firstAttribute="leading" secondItem="Y4y-QB-lq1" secondAttribute="leading" constant="10" id="975-Pe-beB"/>
+                            <constraint firstItem="bQh-RQ-BcG" firstAttribute="leading" secondItem="ivd-dV-fPu" secondAttribute="trailing" constant="20" id="E9b-78-dvf"/>
+                            <constraint firstItem="ivd-dV-fPu" firstAttribute="centerY" secondItem="Y4y-QB-lq1" secondAttribute="centerY" id="N69-et-wqA"/>
+                            <constraint firstAttribute="trailing" secondItem="bQh-RQ-BcG" secondAttribute="trailing" constant="10" id="OiK-mM-qQv"/>
+                            <constraint firstAttribute="bottom" secondItem="ivd-dV-fPu" secondAttribute="bottom" constant="15" id="ekv-UJ-Fdo"/>
+                            <constraint firstItem="bQh-RQ-BcG" firstAttribute="centerY" secondItem="Y4y-QB-lq1" secondAttribute="centerY" id="r5C-Rd-a0C"/>
+                            <constraint firstItem="ivd-dV-fPu" firstAttribute="top" secondItem="Y4y-QB-lq1" secondAttribute="top" constant="15" id="t7z-OZ-ils"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.43921568630000002" green="0.43921568630000002" blue="0.43921568630000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="Y4y-QB-lq1" secondAttribute="trailing" constant="10" id="6oW-an-r0j"/>
+                    <constraint firstAttribute="bottom" secondItem="Y4y-QB-lq1" secondAttribute="bottom" constant="15" id="Jz5-ha-dfb"/>
+                    <constraint firstItem="Y4y-QB-lq1" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="WlG-Xt-Jji"/>
+                    <constraint firstItem="Y4y-QB-lq1" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="j9n-ty-XVr"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <connections>
+                <outlet property="checkBtn" destination="bQh-RQ-BcG" id="le0-27-nmq"/>
+                <outlet property="mainView" destination="Y4y-QB-lq1" id="WLJ-1B-0F1"/>
+                <outlet property="titleLbl" destination="ivd-dV-fPu" id="nXG-GB-fwQ"/>
+            </connections>
+            <point key="canvasLocation" x="84.057971014492765" y="126.22767857142857"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic-check-2" width="23" height="17"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

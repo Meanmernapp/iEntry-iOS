@@ -1,0 +1,6 @@
+framework module BLContactsViewController {
+  umbrella header "BLContactsViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
